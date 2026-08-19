@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -15,6 +15,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 163859532,
                 "language": "C++",
                 "last_commit": "2024-08-06T14:42:05Z",
                 "owner": "ARM-software",
@@ -36,6 +37,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 53700934,
                 "language": "C++",
                 "last_commit": "2023-03-31T16:23:58Z",
                 "owner": "GameTechDev",
@@ -57,11 +59,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 218773739,
                 "language": "Makefile",
                 "last_commit": "2026-07-27T23:05:32Z",
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Guide",
-                "stars": 2280
+                "stars": 2281
               }
             }
           ]
@@ -70,7 +73,7 @@
       "title": "Document"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -79,6 +82,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31612175,
             "language": "C++",
             "last_commit": "2026-05-18T08:13:09Z",
             "owner": "Overv",
@@ -93,6 +97,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52989271,
             "language": "C++",
             "last_commit": "2017-03-19T16:18:41Z",
             "owner": "Z80Fan",
@@ -107,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52698068,
             "language": "C++",
             "last_commit": "2016-03-03T23:36:17Z",
             "owner": "philiptaylor",
@@ -118,7 +124,7 @@
       "title": "Tutorial"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -127,8 +133,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63755042,
             "language": "C",
-            "last_commit": "2026-08-19T01:06:06Z",
+            "last_commit": "2026-08-19T04:46:10Z",
             "owner": "Novum",
             "repo": "vkQuake",
             "stars": 2253
@@ -141,6 +148,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 189627391,
             "language": "C",
             "last_commit": "2025-12-11T04:41:41Z",
             "owner": "NVIDIA",
@@ -155,6 +163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82735571,
             "language": null,
             "last_commit": "2026-06-06T01:21:15Z",
             "owner": "ValveSoftware",
@@ -169,11 +178,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149264967,
             "language": "C",
             "last_commit": "2026-08-04T22:00:44Z",
             "owner": "kondrak",
             "repo": "vkQuake2",
-            "stars": 1005
+            "stars": 1006
           }
         },
         {
@@ -183,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166279759,
             "language": "C",
             "last_commit": "2019-05-10T13:11:45Z",
             "owner": "cschied",
@@ -197,11 +208,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22821674,
             "language": "C++",
-            "last_commit": "2026-08-18T22:57:11Z",
+            "last_commit": "2026-08-19T11:55:24Z",
             "owner": "ddnet",
             "repo": "ddnet",
-            "stars": 814
+            "stars": 815
           }
         },
         {
@@ -211,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59119774,
             "language": null,
             "last_commit": "2023-12-04T16:50:40Z",
             "owner": "ValveSoftware",
@@ -222,7 +235,7 @@
       "title": "Apps"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -231,11 +244,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37821236,
             "language": "GLSL",
             "last_commit": "2026-08-18T05:47:03Z",
             "owner": "SaschaWillems",
             "repo": "Vulkan",
-            "stars": 12116
+            "stars": 12117
           }
         },
         {
@@ -245,11 +259,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 218329478,
             "language": "C++",
             "last_commit": "2026-08-18T14:36:25Z",
             "owner": "KhronosGroup",
             "repo": "Vulkan-Samples",
-            "stars": 5351
+            "stars": 5352
           }
         },
         {
@@ -259,8 +274,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63755042,
             "language": "C",
-            "last_commit": "2026-08-19T01:06:06Z",
+            "last_commit": "2026-08-19T04:46:10Z",
             "owner": "Novum",
             "repo": "vkQuake",
             "stars": 2253
@@ -273,6 +289,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175968151,
             "language": "C++",
             "last_commit": "2025-06-26T09:33:53Z",
             "owner": "GPSnoopy",
@@ -287,6 +304,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 37226382,
             "language": "C++",
             "last_commit": "2021-07-28T18:49:36Z",
             "owner": "LunarG",
@@ -301,6 +319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120181295,
             "language": "C++",
             "last_commit": "2026-07-07T16:05:40Z",
             "owner": "SaschaWillems",
@@ -315,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 73956272,
             "language": "C++",
             "last_commit": "2017-04-02T20:49:25Z",
             "owner": "WindyDarian",
@@ -329,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163859532,
             "language": "C++",
             "last_commit": "2024-08-06T14:42:05Z",
             "owner": "ARM-software",
@@ -343,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77811934,
             "language": "C++",
             "last_commit": "2022-10-13T08:51:24Z",
             "owner": "chaoticbob",
@@ -357,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73970264,
             "language": "C++",
             "last_commit": "2017-03-30T05:48:41Z",
             "owner": "jian-ru",
@@ -371,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155103455,
             "language": "C++",
             "last_commit": "2025-05-12T18:05:48Z",
             "owner": "iOrange",
@@ -385,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52753741,
             "language": "C++",
             "last_commit": "2024-10-18T21:00:29Z",
             "owner": "jherico",
@@ -399,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82454170,
             "language": "C",
             "last_commit": "2025-12-11T13:33:39Z",
             "owner": "kocsis1david",
@@ -418,6 +444,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 51843390,
                 "language": "C++",
                 "last_commit": "2025-01-31T17:39:19Z",
                 "owner": "nvpro-samples",
@@ -432,6 +459,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 51840099,
                 "language": "C++",
                 "last_commit": "2025-01-31T17:20:18Z",
                 "owner": "nvpro-samples",
@@ -446,6 +474,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 51851215,
                 "language": "C++",
                 "last_commit": "2025-01-31T18:15:29Z",
                 "owner": "nvpro-samples",
@@ -460,6 +489,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 51851049,
                 "language": "C++",
                 "last_commit": "2025-01-31T17:41:38Z",
                 "owner": "nvpro-samples",
@@ -470,6 +500,7 @@
           ],
           "repo_info": {
             "archived": true,
+            "id": 51840099,
             "language": "C++",
             "last_commit": "2025-01-31T17:20:18Z",
             "owner": "nvpro-samples",
@@ -484,6 +515,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51853492,
             "language": "C",
             "last_commit": "2024-07-23T18:43:12Z",
             "owner": "krh",
@@ -498,6 +530,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 56578130,
             "language": "C",
             "last_commit": "2023-01-03T22:53:45Z",
             "owner": "GameTechDev",
@@ -512,6 +545,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69488497,
             "language": "C++",
             "last_commit": "2017-05-08T06:14:44Z",
             "owner": "trungtle",
@@ -526,6 +560,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83219918,
             "language": "C++",
             "last_commit": "2022-07-08T16:12:29Z",
             "owner": "RippeR37",
@@ -540,6 +575,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89471942,
             "language": "Kotlin",
             "last_commit": "2019-11-14T14:53:43Z",
             "owner": "jvm-graphics-labs",
@@ -554,6 +590,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126833034,
             "language": "C++",
             "last_commit": "2026-07-06T14:03:55Z",
             "owner": "vcoda",
@@ -568,6 +605,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248248206,
             "language": "C++",
             "last_commit": "2020-12-23T21:20:15Z",
             "owner": "maierfelix",
@@ -582,6 +620,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91270207,
             "language": "C++",
             "last_commit": "2017-05-26T10:08:38Z",
             "owner": "jpystynen",
@@ -596,6 +635,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68069345,
             "language": "C#",
             "last_commit": "2018-01-20T14:03:56Z",
             "owner": "FacticiusVir",
@@ -610,6 +650,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185274006,
             "language": "C",
             "last_commit": "2025-11-08T21:17:24Z",
             "owner": "jeffboody",
@@ -624,6 +665,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 398653326,
             "language": "C++",
             "last_commit": "2021-08-23T13:37:47Z",
             "owner": "Red1C3",
@@ -643,6 +685,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 53032527,
                 "language": "C++",
                 "last_commit": "2023-11-16T14:37:23Z",
                 "owner": "googlesamples",
@@ -657,6 +700,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 60720637,
                 "language": "C++",
                 "last_commit": "2021-04-28T23:42:36Z",
                 "owner": "googlesamples",
@@ -665,18 +709,12 @@
               }
             }
           ]
-        },
-        {
-          "node_type": "item",
-          "title": "NVIDIA GameWorks Samples",
-          "description": "GameWorks cross-platform graphics API samples. [LICENSE]",
-          "children": []
         }
       ],
       "title": "Samples"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -690,11 +728,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 22067521,
                 "language": "C++",
-                "last_commit": "2026-08-18T10:47:20Z",
+                "last_commit": "2026-08-19T11:39:50Z",
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 75712
+                "stars": 75728
               }
             },
             {
@@ -704,11 +743,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 15773229,
                 "language": "C++",
-                "last_commit": "2026-08-19T01:32:48Z",
+                "last_commit": "2026-08-19T12:19:49Z",
                 "owner": "google",
                 "repo": "skia",
-                "stars": 10886
+                "stars": 10887
               }
             },
             {
@@ -718,11 +758,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 115539227,
                 "language": "C",
                 "last_commit": "2026-07-10T08:55:18Z",
                 "owner": "jpbruyere",
                 "repo": "vkvg",
-                "stars": 812
+                "stars": 813
               }
             }
           ]
@@ -739,11 +780,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 95879426,
                 "language": "C++",
                 "last_commit": "2026-08-18T08:40:18Z",
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23712
+                "stars": 23713
               }
             },
             {
@@ -753,6 +795,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 283406173,
                 "language": "C++",
                 "last_commit": "2026-08-15T13:52:13Z",
                 "owner": "KomputeProject",
@@ -767,6 +810,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 284421891,
                 "language": "C++",
                 "last_commit": "2026-04-04T19:41:08Z",
                 "owner": "DTolm",
@@ -781,6 +825,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 131146067,
                 "language": "C++",
                 "last_commit": "2023-10-15T09:49:28Z",
                 "owner": "Glavnokoman",
@@ -795,6 +840,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 52837570,
                 "language": "C++",
                 "last_commit": "2022-01-08T23:18:21Z",
                 "owner": "uNetworking",
@@ -821,6 +867,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "id": 211498608,
                     "language": "C",
                     "last_commit": "2022-04-15T13:25:30Z",
                     "owner": "malte-v",
@@ -831,11 +878,12 @@
               ],
               "repo_info": {
                 "archived": false,
+                "id": 94551647,
                 "language": "C",
                 "last_commit": "2026-06-04T22:51:09Z",
                 "owner": "GPUOpen-LibrariesAndSDKs",
                 "repo": "VulkanMemoryAllocator",
-                "stars": 3467
+                "stars": 3468
               }
             },
             {
@@ -845,11 +893,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 237139329,
                 "language": "C++",
                 "last_commit": "2026-08-18T00:47:41Z",
                 "owner": "charles-lunarg",
                 "repo": "vk-bootstrap",
-                "stars": 1273
+                "stars": 1274
               }
             },
             {
@@ -859,6 +908,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 126342640,
                 "language": "C",
                 "last_commit": "2021-09-07T04:13:25Z",
                 "owner": "GPUOpen-LibrariesAndSDKs",
@@ -873,6 +923,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 52352579,
                 "language": "C++",
                 "last_commit": "2024-06-04T00:45:00Z",
                 "owner": "andy-thomason",
@@ -887,6 +938,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 148334704,
                 "language": "C++",
                 "last_commit": "2021-03-24T20:05:42Z",
                 "owner": "azhirnov",
@@ -901,8 +953,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 272821902,
                 "language": "Rust",
-                "last_commit": "2026-08-17T16:15:12Z",
+                "last_commit": "2026-08-19T09:10:21Z",
                 "owner": "attackgoat",
                 "repo": "vk-graph",
                 "stars": 340
@@ -915,6 +968,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 52182499,
                 "language": "C++",
                 "last_commit": "2020-12-05T01:18:43Z",
                 "owner": "nyorain",
@@ -929,6 +983,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 55440122,
                 "language": "C++",
                 "last_commit": "2017-11-27T17:22:24Z",
                 "owner": "google",
@@ -943,6 +998,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 75575984,
                 "language": "C",
                 "last_commit": "2025-10-09T05:54:35Z",
                 "owner": "renelindsay",
@@ -957,6 +1013,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 127623621,
                 "language": "C",
                 "last_commit": "2019-03-18T09:22:17Z",
                 "owner": "Themaister",
@@ -978,11 +1035,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 3925242,
                 "language": "C",
                 "last_commit": "2026-08-18T20:42:46Z",
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17409
+                "stars": 17412
               }
             },
             {
@@ -992,11 +1050,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 9524997,
                 "language": "C",
                 "last_commit": "2026-08-04T16:34:20Z",
                 "owner": "glfw",
                 "repo": "glfw",
-                "stars": 15257
+                "stars": 15259
               }
             },
             {
@@ -1006,6 +1065,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 105600991,
                 "language": "C++",
                 "last_commit": "2025-07-03T23:20:30Z",
                 "owner": "ConfettiFX",
@@ -1020,6 +1080,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 622127,
                 "language": "C++",
                 "last_commit": "2026-03-20T22:35:41Z",
                 "owner": "cinder",
@@ -1034,6 +1095,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 44292772,
                 "language": "Batchfile",
                 "last_commit": "2026-08-16T20:18:01Z",
                 "owner": "DiligentGraphics",
@@ -1048,6 +1110,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 98350667,
                 "language": "C++",
                 "last_commit": "2025-01-07T11:21:34Z",
                 "owner": "NVIDIAGameWorks",
@@ -1062,11 +1125,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 96174151,
                 "language": "C++",
                 "last_commit": "2023-09-21T04:41:02Z",
                 "owner": "EQMG",
                 "repo": "Acid",
-                "stars": 2017
+                "stars": 2018
               }
             },
             {
@@ -1076,8 +1140,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 125349427,
                 "language": "C++",
-                "last_commit": "2026-08-18T16:42:14Z",
+                "last_commit": "2026-08-19T09:03:24Z",
                 "owner": "GameFoundry",
                 "repo": "B3DFramework",
                 "stars": 1918
@@ -1090,6 +1155,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 71087084,
                 "language": "C++",
                 "last_commit": "2023-04-21T09:42:43Z",
                 "owner": "begla",
@@ -1104,6 +1170,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 154323581,
                 "language": "C++",
                 "last_commit": "2026-02-01T17:50:29Z",
                 "owner": "liblava",
@@ -1118,6 +1185,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 25927337,
                 "language": "C++",
                 "last_commit": "2026-05-28T11:50:38Z",
                 "owner": "powervr-graphics",
@@ -1132,6 +1200,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 189206704,
                 "language": "C++",
                 "last_commit": "2026-08-13T04:41:45Z",
                 "owner": "Devsh-Graphics-Programming",
@@ -1146,6 +1215,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 59041293,
                 "language": "C++",
                 "last_commit": "2024-06-17T14:54:34Z",
                 "owner": "GPUOpen-Archive",
@@ -1160,6 +1230,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 202982062,
                 "language": "C++",
                 "last_commit": "2025-10-17T12:32:52Z",
                 "owner": "cg-tuwien",
@@ -1174,6 +1245,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 87456010,
                 "language": "C++",
                 "last_commit": "2026-06-20T18:15:57Z",
                 "owner": "nxp-imx",
@@ -1188,6 +1260,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 271208129,
                 "language": "C++",
                 "last_commit": "2025-10-17T12:31:53Z",
                 "owner": "cg-tuwien",
@@ -1202,6 +1275,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 80436294,
                 "language": "C++",
                 "last_commit": "2019-01-27T23:38:56Z",
                 "owner": "pumexx",
@@ -1216,6 +1290,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 69289273,
                 "language": "C++",
                 "last_commit": "2018-05-29T12:14:28Z",
                 "owner": "Lugdunum3D",
@@ -1230,6 +1305,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 58741799,
                 "language": "C",
                 "last_commit": "2021-02-08T04:06:22Z",
                 "owner": "GPUOpen-LibrariesAndSDKs",
@@ -1249,6 +1325,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 564215595,
                     "language": "C++",
                     "last_commit": "2025-09-20T13:56:54Z",
                     "owner": "cg-tuwien",
@@ -1259,6 +1336,7 @@
               ],
               "repo_info": {
                 "archived": false,
+                "id": 537333956,
                 "language": "C++",
                 "last_commit": "2026-04-24T12:56:38Z",
                 "owner": "cg-tuwien",
@@ -1273,6 +1351,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 62127969,
                 "language": "C++",
                 "last_commit": "2017-10-27T17:33:58Z",
                 "owner": "openframeworks-vk",
@@ -1287,6 +1366,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 626366088,
                 "language": "C++",
                 "last_commit": "2026-07-22T15:24:05Z",
                 "owner": "Dolkar",
@@ -1301,6 +1381,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 96617464,
                 "language": "C++",
                 "last_commit": "2021-04-05T11:42:45Z",
                 "owner": "UL-FRI-LGM",
@@ -1315,6 +1396,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 76431389,
                 "language": "C++",
                 "last_commit": "2018-02-23T03:06:32Z",
                 "owner": "mwalczyk",
@@ -1329,6 +1411,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 644116049,
                 "language": "C++",
                 "last_commit": "2024-11-05T15:28:09Z",
                 "owner": "MHDtA-dev",
@@ -1350,11 +1433,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 109875967,
                 "language": "Objective-C++",
                 "last_commit": "2026-08-17T19:15:10Z",
                 "owner": "KhronosGroup",
                 "repo": "MoltenVK",
-                "stars": 5793
+                "stars": 5794
               }
             },
             {
@@ -1364,6 +1448,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 151876489,
                 "language": "C++",
                 "last_commit": "2024-01-21T12:08:08Z",
                 "owner": "jgbit",
@@ -1378,6 +1463,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 97020137,
                 "language": "LLVM",
                 "last_commit": "2026-08-14T15:22:02Z",
                 "owner": "google",
@@ -1392,6 +1478,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 102678270,
                 "language": "C",
                 "last_commit": "2023-06-06T02:15:26Z",
                 "owner": "gfx-rs",
@@ -1406,6 +1493,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 5695459,
                 "language": "C++",
                 "last_commit": "2016-11-15T22:27:15Z",
                 "owner": "g-truc",
@@ -1420,6 +1508,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 122472449,
                 "language": "C++",
                 "last_commit": "2018-04-18T16:51:00Z",
                 "owner": "msiglreith",
@@ -1434,24 +1523,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 87584126,
                 "language": "C++",
                 "last_commit": "2018-06-02T16:50:54Z",
                 "owner": "baldurk",
                 "repo": "visor",
                 "stars": 48
               }
-            },
-            {
-              "node_type": "item",
-              "title": "VulkanOnD3D12",
-              "description": "Vulkan API for D3D12. [Apache License 2.0]",
-              "children": []
-            },
-            {
-              "node_type": "item",
-              "title": "VK9",
-              "description": "Direct3D 9 compatibility layer using Vulkan",
-              "children": []
             }
           ]
         },
@@ -1467,6 +1545,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 162186933,
                 "language": "C++",
                 "last_commit": "2019-11-02T22:47:43Z",
                 "owner": "Nadrin",
@@ -1488,8 +1567,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 281501204,
                 "language": "C",
-                "last_commit": "2026-08-18T07:09:14Z",
+                "last_commit": "2026-08-19T12:53:18Z",
                 "owner": "datoviz",
                 "repo": "datoviz",
                 "stars": 804
@@ -1509,6 +1589,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 38064932,
                 "language": "C++",
                 "last_commit": "2026-08-18T17:07:48Z",
                 "owner": "KhronosGroup",
@@ -1523,6 +1604,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 55413903,
                 "language": "GLSL",
                 "last_commit": "2026-07-31T13:06:58Z",
                 "owner": "KhronosGroup",
@@ -1544,6 +1626,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 78512347,
                 "language": "C++",
                 "last_commit": "2019-01-21T09:04:49Z",
                 "owner": "nvpro-pipeline",
@@ -1557,7 +1640,7 @@
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1566,6 +1649,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13847975,
             "language": "Rust",
             "last_commit": "2023-02-27T01:05:58Z",
             "owner": "gfx-rs",
@@ -1580,6 +1664,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191232240,
             "language": "C#",
             "last_commit": "2026-08-17T03:26:57Z",
             "owner": "dotnet",
@@ -1594,11 +1679,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38607895,
             "language": "Rust",
             "last_commit": "2026-07-30T08:29:06Z",
             "owner": "vulkano-rs",
             "repo": "vulkano",
-            "stars": 5139
+            "stars": 5140
           }
         },
         {
@@ -1608,8 +1694,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61292682,
             "language": "C++",
-            "last_commit": "2026-08-18T13:15:51Z",
+            "last_commit": "2026-08-19T09:02:14Z",
             "owner": "KhronosGroup",
             "repo": "Vulkan-Hpp",
             "stars": 3777
@@ -1622,11 +1709,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65640886,
             "language": "Rust",
             "last_commit": "2026-08-12T11:40:23Z",
             "owner": "ash-rs",
             "repo": "ash",
-            "stars": 2324
+            "stars": 2325
           }
         },
         {
@@ -1636,6 +1724,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146889623,
             "language": "C++",
             "last_commit": "2021-01-03T02:41:19Z",
             "owner": "maierfelix",
@@ -1650,6 +1739,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 215272170,
             "language": "Zig",
             "last_commit": "2026-08-18T18:08:30Z",
             "owner": "Snektron",
@@ -1664,6 +1754,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52986448,
             "language": "C",
             "last_commit": "2023-08-05T21:12:55Z",
             "owner": "vulkan-go",
@@ -1678,6 +1769,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86040574,
             "language": "C++",
             "last_commit": "2024-02-27T10:13:23Z",
             "owner": "realitix",
@@ -1692,6 +1784,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 51959580,
             "language": "C#",
             "last_commit": "2021-06-12T12:30:36Z",
             "owner": "mono",
@@ -1706,6 +1799,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 205874500,
             "language": "C#",
             "last_commit": "2026-05-25T06:56:54Z",
             "owner": "amerkoleci",
@@ -1720,8 +1814,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52313841,
             "language": "Pascal",
-            "last_commit": "2026-08-19T01:27:56Z",
+            "last_commit": "2026-08-19T04:25:37Z",
             "owner": "BeRo1985",
             "repo": "pasvulkan",
             "stars": 224
@@ -1734,6 +1829,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1620626,
             "language": "C",
             "last_commit": "2026-02-19T02:19:46Z",
             "owner": "mosra",
@@ -1748,6 +1844,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51958082,
             "language": "Haskell",
             "last_commit": "2026-08-17T10:52:52Z",
             "owner": "expipiplus1",
@@ -1762,6 +1859,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53777358,
             "language": "C#",
             "last_commit": "2022-12-08T00:53:02Z",
             "owner": "FacticiusVir",
@@ -1776,6 +1874,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132931904,
             "language": "Kotlin",
             "last_commit": "2022-12-02T10:08:57Z",
             "owner": "kotlin-graphics",
@@ -1790,6 +1889,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50772590,
             "language": "Lua",
             "last_commit": "2018-03-24T12:43:52Z",
             "owner": "CapsAdmin",
@@ -1804,6 +1904,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58715369,
             "language": "D",
             "last_commit": "2023-04-20T15:10:56Z",
             "owner": "ParticlePeter",
@@ -1818,6 +1919,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 569783169,
             "language": "TypeScript",
             "last_commit": "2023-03-20T03:53:12Z",
             "owner": "deno-windowing",
@@ -1832,30 +1934,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 54075943,
             "language": "D",
             "last_commit": "2016-09-21T04:48:43Z",
             "owner": "ColonelThirtyTwo",
             "repo": "dvulkan",
             "stars": 17
           }
-        },
-        {
-          "node_type": "item",
-          "title": "racket-vulkan",
-          "description": "Racket bindings for Vulkan with detailed implementation notes. [MIT]",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Raw Node.js Vulkan API",
-          "description": "A new Vulkan bindings for Node.JS, similar with LWJGL-3 or NVK.",
-          "children": []
         }
       ],
       "title": "Bindings"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1869,6 +1960,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 229320830,
                 "language": "C++",
                 "last_commit": "2020-01-06T16:21:20Z",
                 "owner": "azhirnov",
@@ -1879,6 +1971,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 17253131,
             "language": "C++",
             "last_commit": "2026-08-18T13:15:24Z",
             "owner": "baldurk",
@@ -1893,11 +1986,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 236648333,
             "language": "C",
             "last_commit": "2026-08-18T10:31:03Z",
             "owner": "flightlessmango",
             "repo": "MangoHud",
-            "stars": 8943
+            "stars": 8944
           }
         },
         {
@@ -1907,6 +2001,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81937787,
             "language": "Go",
             "last_commit": "2024-05-08T03:22:01Z",
             "owner": "google",
@@ -1921,6 +2016,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 56045114,
             "language": "C++",
             "last_commit": "2020-04-29T17:38:37Z",
             "owner": "GPUOpen-Archive",
@@ -1935,6 +2031,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50691713,
             "language": "C++",
             "last_commit": "2026-08-06T14:23:47Z",
             "owner": "LunarG",
@@ -1949,6 +2046,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 51507157,
             "language": "C++",
             "last_commit": "2018-05-16T07:51:32Z",
             "owner": "KhronosGroup",
@@ -1963,6 +2061,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75729693,
             "language": "C++",
             "last_commit": "2023-09-27T15:12:16Z",
             "owner": "GPUOpen-Tools",
@@ -1977,6 +2076,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105034628,
             "language": "C++",
             "last_commit": "2022-01-20T15:46:30Z",
             "owner": "ARM-software",
@@ -1991,6 +2091,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 252840675,
             "language": "C++",
             "last_commit": "2023-07-14T16:58:18Z",
             "owner": "azhirnov",
@@ -2002,7 +2103,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -2016,6 +2117,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 74563033,
                 "language": "C++",
                 "last_commit": "2024-07-17T13:39:47Z",
                 "owner": "PacktPublishing",
@@ -2037,6 +2139,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 89470375,
                 "language": "C++",
                 "last_commit": "2023-01-18T09:57:50Z",
                 "owner": "PacktPublishing",
@@ -2050,7 +2153,7 @@
       "title": "Books"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2059,11 +2162,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21737465,
             "language": null,
             "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497450
+            "stars": 497670
           }
         },
         {
@@ -2073,11 +2177,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21958186,
             "language": "Markdown",
             "last_commit": "2026-08-17T17:57:40Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17149
+            "stars": 17150
           }
         },
         {
@@ -2087,11 +2192,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37971591,
             "language": null,
             "last_commit": "2026-01-09T12:26:55Z",
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2431
+            "stars": 2432
           }
         },
         {
@@ -2101,6 +2207,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38935281,
             "language": null,
             "last_commit": "2020-12-30T21:02:56Z",
             "owner": "mattdesl",
@@ -2115,6 +2222,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73044032,
             "language": null,
             "last_commit": "2018-12-18T04:44:06Z",
             "owner": "vinjn",
@@ -2124,21 +2232,12 @@
         }
       ],
       "title": "Related lists"
-    },
-    {
-      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
-      "items": [],
-      "title": "License"
-    },
-    {
-      "description": "Please see CONTRIBUTING for details.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:19:02.990Z",
+    "last_updated": "2026-08-19T12:57:41.518Z",
     "original_repository": "vinjn/awesome-vulkan",
+    "original_repository_id": 51843752,
     "original_repository_sha": "6b4fb31552e35432eaf0a737badda5e0cee64c5b",
     "enhanced_repository": "enhansome/enhansome-vulkan",
     "enhanced_repository_description": null,
