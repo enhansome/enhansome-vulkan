@@ -193,7 +193,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
   * [libvc](https://github.com/alexhultman/libvc) ⭐ 141 | 🐛 2 | 🌐 C++ | 📅 2022-01-08 - Vulkan Compute for C++.  \[[LICENSE](https://github.com/alexhultman/libvc/blob/master/LICENSE) ⭐ 141 | 🐛 2 | 🌐 C++ | 📅 2022-01-08]
 
 * Low Level
-  * [Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) ⭐ 3,479 | 🐛 36 | 🌐 C | 📅 2026-06-04 - Easy to integrate Vulkan memory allocation library from AMD. \[MIT]
+  * [Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) ⭐ 3,480 | 🐛 36 | 🌐 C | 📅 2026-06-04 - Easy to integrate Vulkan memory allocation library from AMD. \[MIT]
     * \[VulkanMemoryAllocator-Hpp] (<https://github.com/malte-v/VulkanMemoryAllocator-Hpp> ⚠️ Archived) - C++ Bindings for VMA, like Vulkan-HPP
   * [vk-bootstrap](https://github.com/charles-lunarg/vk-bootstrap) ⭐ 1,276 | 🐛 26 | 🌐 C++ | 📅 2026-08-27 - C++ utility library to jump start Vulkan development by automating instance, physical device, device, and swapchain creation. \[MIT]
   * [V-EZ](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ) ⭐ 890 | 🐛 33 | 🌐 C | 📅 2021-09-07 - light-weight middleware layer for the Vulkan API targeting Professional Workstation ISVs. \[MIT]
@@ -207,7 +207,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
   * [VulkanSceneGraph](https://github.com/vsg-dev) - Vulkan/C++17 scene graph project, successor to [OpenSceneGraph](http://www.openscenegraph.org).
 
 * Frameworks, Engines, Higher Level Rendering
-  * [bgfx](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) ⭐ 17,433 | 🐛 285 | 🌐 C++ | 📅 2026-08-26 - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. \[[BSD-2-clause](https://github.com/bkaradzic/bgfx/blob/master/LICENSE) ⭐ 17,433 | 🐛 285 | 🌐 C++ | 📅 2026-08-26]
+  * [bgfx](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) ⭐ 17,434 | 🐛 285 | 🌐 C++ | 📅 2026-08-26 - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. \[[BSD-2-clause](https://github.com/bkaradzic/bgfx/blob/master/LICENSE) ⭐ 17,434 | 🐛 285 | 🌐 C++ | 📅 2026-08-26]
   * [glfw](https://github.com/glfw/glfw) ⭐ 15,287 | 🐛 760 | 🌐 C | 📅 2026-08-04 and [the guide](http://www.glfw.org/docs/3.2/vulkan.html).  \[[LICENSE](https://github.com/glfw/glfw/blob/master/LICENSE.md) ⭐ 15,287 | 🐛 760 | 🌐 C | 📅 2026-08-04]
   * [The-Forge](https://github.com/ConfettiFX/The-Forge) ⭐ 5,642 | 🐛 14 | 🌐 C++ | 📅 2025-07-03 - DirectX 12, Vulkan, macOS Metal 2 rendering framework. \[Apache License 2.0]
   * [Cinder](https://github.com/cinder/Cinder) ⭐ 5,536 | 🐛 360 | 🌐 C++ | 📅 2026-03-20 and [the story](https://libcinder.org/notes/vulkan) [behind](https://forum.libcinder.org/#Topic/23286000002614007). \[BSD]
@@ -267,7 +267,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 * [gfx-rs](https://github.com/gfx-rs/gfx) ⭐ 5,398 | 🐛 331 | 🌐 Rust | 📅 2023-02-27 - A low-overhead Vulkan-like GPU API for Rust. \[Apache License 2.0]
 * [Silk.NET](https://github.com/dotnet/Silk.NET) ⭐ 5,174 | 🐛 103 | 🌐 C# | 📅 2026-08-25 - C# bindings for Vulkan and others. \[MIT]
 * [Vulkano](https://github.com/vulkano-rs/vulkano) ⭐ 5,143 | 🐛 88 | 🌐 Rust | 📅 2026-08-26 - Safe and rich Rust wrapper around the Vulkan API. \[MIT]
-* [Vulkan-hpp](https://github.com/KhronosGroup/Vulkan-Hpp) ⭐ 3,782 | 🐛 27 | 🌐 C++ | 📅 2026-08-27 Open-Source Vulkan C++ API originated from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
+* [Vulkan-hpp](https://github.com/KhronosGroup/Vulkan-Hpp) ⭐ 3,782 | 🐛 28 | 🌐 C++ | 📅 2026-08-27 Open-Source Vulkan C++ API originated from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
 * [ash](https://github.com/MaikKlein/ash) ⭐ 2,332 | 🐛 78 | 🌐 Rust | 📅 2026-08-27 - Vulkan bindings for Rust. \[MIT]
 * [nvk](https://github.com/maierfelix/nvk) ⭐ 947 | 🐛 6 | 🌐 C++ | 📅 2021-01-03 - JavaScript bindings for Vulkan. \[MIT]
 * [vulkan-zig](https://github.com/Snektron/vulkan-zig) ⭐ 902 | 🐛 25 | 🌐 Zig | 📅 2026-08-23 - Vulkan binding generator for Zig \[MIT]
@@ -297,7 +297,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 * [CodeXL](https://github.com/GPUOpen-Tools/CodeXL) ⚠️ Archived - CodeXL goes open source. \[MIT]
 * [VulkanTools](https://github.com/LunarG/VulkanTools) ⭐ 770 | 🐛 52 | 🌐 C++ | 📅 2026-08-26 - LunarG's tools including layers and configurator. \[Apache Licence 2.0]
 * [LoaderAndValidationLayers](https://github.com/KhronosGroup/Vulkan-LoaderAndValidationLayers) ⚠️ Archived - from KhronosGroup. \[Apache Licence 2.0]
-* [Open Capture and Analytics Tool (OCAT)](https://github.com/GPUOpen-Tools/OCAT) ⭐ 362 | 🐛 26 | 🌐 C++ | 📅 2023-09-27 - provides an FPS overlay and performance measurement for D3D11, D3D12, and Vulkan. \[MIT]
+* [Open Capture and Analytics Tool (OCAT)](https://github.com/GPUOpen-Tools/OCAT) ⭐ 363 | 🐛 26 | 🌐 C++ | 📅 2023-09-27 - provides an FPS overlay and performance measurement for D3D11, D3D12, and Vulkan. \[MIT]
 * [Arm - PerfDoc](https://github.com/ARM-software/perfdoc) ⭐ 117 | 🐛 1 | 🌐 C++ | 📅 2022-01-20 - a validation layer against the Mali Application Developer Best Practices document. \[MIT]
 * [glsl\_trace](https://github.com/azhirnov/glsl_trace) ⭐ 35 | 🐛 0 | 🌐 C++ | 📅 2023-07-14 - library for shader debugging and profiling for Vulkan and OpenGL. \[MIT]
 * [Nsight™ Visual Studio Edition 5.2+](https://developer.nvidia.com/nvidia-nsight-visual-studio-edition).
@@ -366,7 +366,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 
 ## Related lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,351 | 🐛 105 | 📅 2026-08-21 - Curated list of awesome lists.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,369 | 🐛 105 | 📅 2026-08-21 - Curated list of awesome lists.
 * [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,204 | 🐛 14 | 🌐 Markdown | 📅 2026-08-25 - Awesome list about game development.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,437 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,853 | 🐛 5 | 📅 2020-12-30 - List of graphic programming resources.

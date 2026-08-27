@@ -210,7 +210,7 @@
             "archived": false,
             "id": 22821674,
             "language": "C++",
-            "last_commit": "2026-08-27T07:01:55Z",
+            "last_commit": "2026-08-27T11:43:40Z",
             "owner": "ddnet",
             "repo": "ddnet",
             "stars": 817
@@ -883,7 +883,7 @@
                 "last_commit": "2026-06-04T22:51:09Z",
                 "owner": "GPUOpen-LibrariesAndSDKs",
                 "repo": "VulkanMemoryAllocator",
-                "stars": 3479
+                "stars": 3480
               }
             },
             {
@@ -1040,7 +1040,7 @@
                 "last_commit": "2026-08-26T06:40:47Z",
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17433
+                "stars": 17434
               }
             },
             {
@@ -1696,7 +1696,7 @@
             "archived": false,
             "id": 61292682,
             "language": "C++",
-            "last_commit": "2026-08-27T10:56:19Z",
+            "last_commit": "2026-08-27T11:02:10Z",
             "owner": "KhronosGroup",
             "repo": "Vulkan-Hpp",
             "stars": 3782
@@ -1816,7 +1816,7 @@
             "archived": false,
             "id": 52313841,
             "language": "Pascal",
-            "last_commit": "2026-08-27T05:31:23Z",
+            "last_commit": "2026-08-27T12:01:01Z",
             "owner": "BeRo1985",
             "repo": "pasvulkan",
             "stars": 225
@@ -2066,7 +2066,7 @@
             "last_commit": "2023-09-27T15:12:16Z",
             "owner": "GPUOpen-Tools",
             "repo": "ocat",
-            "stars": 362
+            "stars": 363
           }
         },
         {
@@ -2167,7 +2167,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500351
+            "stars": 500369
           }
         },
         {
@@ -2235,7 +2235,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:00:46.213Z",
+    "last_updated": "2026-08-27T12:10:07.219Z",
     "original_repository_info": {
       "archived": false,
       "id": 51843752,
