@@ -21,7 +21,8 @@
                 "owner": "ARM-software",
                 "repo": "vulkan_best_practice_for_mobile_developers",
                 "stars": 685
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             }
           ]
         },
@@ -43,7 +44,8 @@
                 "owner": "GameTechDev",
                 "repo": "IntroductionToVulkan",
                 "stars": 1302
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             }
           ]
         },
@@ -65,7 +67,8 @@
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Guide",
                 "stars": 2282
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             }
           ]
         }
@@ -87,8 +90,9 @@
             "last_commit": "2026-05-18T08:13:09Z",
             "owner": "Overv",
             "repo": "VulkanTutorial",
-            "stars": 3685
-          }
+            "stars": 3684
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -103,7 +107,8 @@
             "owner": "Z80Fan",
             "repo": "VulkanDemos",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -118,7 +123,8 @@
             "owner": "philiptaylor",
             "repo": "vulkan-sxs",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         }
       ],
       "title": "Tutorial"
@@ -138,8 +144,9 @@
             "last_commit": "2026-08-27T08:36:23Z",
             "owner": "Novum",
             "repo": "vkQuake",
-            "stars": 2261
-          }
+            "stars": 2263
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -154,7 +161,8 @@
             "owner": "NVIDIA",
             "repo": "Q2RTX",
             "stars": 1317
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -169,7 +177,8 @@
             "owner": "ValveSoftware",
             "repo": "SteamVR-for-Linux",
             "stars": 1064
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -184,7 +193,8 @@
             "owner": "kondrak",
             "repo": "vkQuake2",
             "stars": 1007
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -199,7 +209,8 @@
             "owner": "cschied",
             "repo": "q2vkpt",
             "stars": 963
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -210,11 +221,12 @@
             "archived": false,
             "id": 22821674,
             "language": "C++",
-            "last_commit": "2026-08-27T11:43:40Z",
+            "last_commit": "2026-08-28T11:50:28Z",
             "owner": "ddnet",
             "repo": "ddnet",
-            "stars": 817
-          }
+            "stars": 819
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -229,7 +241,8 @@
             "owner": "ValveSoftware",
             "repo": "Dota-2-Vulkan",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         }
       ],
       "title": "Apps"
@@ -246,11 +259,12 @@
             "archived": false,
             "id": 37821236,
             "language": "GLSL",
-            "last_commit": "2026-08-18T05:47:03Z",
+            "last_commit": "2026-08-28T10:37:49Z",
             "owner": "SaschaWillems",
             "repo": "Vulkan",
             "stars": 12129
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -265,7 +279,8 @@
             "owner": "KhronosGroup",
             "repo": "Vulkan-Samples",
             "stars": 5362
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -279,8 +294,9 @@
             "last_commit": "2026-08-27T08:36:23Z",
             "owner": "Novum",
             "repo": "vkQuake",
-            "stars": 2261
-          }
+            "stars": 2263
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -295,7 +311,8 @@
             "owner": "GPSnoopy",
             "repo": "RayTracingInVulkan",
             "stars": 1513
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -310,7 +327,8 @@
             "owner": "LunarG",
             "repo": "VulkanSamples",
             "stars": 1424
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -325,7 +343,8 @@
             "owner": "SaschaWillems",
             "repo": "Vulkan-glTF-PBR",
             "stars": 1196
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -340,7 +359,8 @@
             "owner": "WindyDarian",
             "repo": "Vulkan-Forward-Plus-Renderer",
             "stars": 697
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -355,7 +375,8 @@
             "owner": "ARM-software",
             "repo": "vulkan_best_practice_for_mobile_developers",
             "stars": 685
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -370,7 +391,8 @@
             "owner": "chaoticbob",
             "repo": "tinyrenderers",
             "stars": 479
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -385,7 +407,8 @@
             "owner": "jian-ru",
             "repo": "laugh_engine",
             "stars": 391
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -400,7 +423,8 @@
             "owner": "iOrange",
             "repo": "rtxON",
             "stars": 389
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -415,7 +439,8 @@
             "owner": "jherico",
             "repo": "VulkanExamples",
             "stars": 361
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -430,7 +455,8 @@
             "owner": "kocsis1david",
             "repo": "font-demo",
             "stars": 253
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -450,7 +476,8 @@
                 "owner": "nvpro-samples",
                 "repo": "gl_vk_chopper",
                 "stars": 210
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -465,7 +492,8 @@
                 "owner": "nvpro-samples",
                 "repo": "gl_vk_threaded_cadscene",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -480,7 +508,8 @@
                 "owner": "nvpro-samples",
                 "repo": "gl_vk_bk3dthreaded",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -495,7 +524,8 @@
                 "owner": "nvpro-samples",
                 "repo": "gl_vk_supersampled",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             }
           ],
           "repo_info": {
@@ -506,7 +536,8 @@
             "owner": "nvpro-samples",
             "repo": "gl_vk_threaded_cadscene",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -521,7 +552,8 @@
             "owner": "krh",
             "repo": "vkcube",
             "stars": 159
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -536,7 +568,8 @@
             "owner": "GameTechDev",
             "repo": "stardust_vulkan",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -551,7 +584,8 @@
             "owner": "trungtle",
             "repo": "TLVulkanRenderer",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -566,7 +600,8 @@
             "owner": "RippeR37",
             "repo": "GL_vs_VK",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -581,7 +616,8 @@
             "owner": "jvm-graphics-labs",
             "repo": "Vulkan",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -596,7 +632,8 @@
             "owner": "vcoda",
             "repo": "basic-graphics-samples",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -611,7 +648,8 @@
             "owner": "maierfelix",
             "repo": "VK_KHR_ray_tracing",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -626,7 +664,8 @@
             "owner": "jpystynen",
             "repo": "vulkantoy",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -641,7 +680,8 @@
             "owner": "FacticiusVir",
             "repo": "SharpVk-Samples",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -656,7 +696,8 @@
             "owner": "jeffboody",
             "repo": "gearsvk",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -671,7 +712,8 @@
             "owner": "Red1C3",
             "repo": "Simple-Animation-Blender",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "group",
@@ -691,7 +733,8 @@
                 "owner": "googlesamples",
                 "repo": "android-vulkan-tutorials",
                 "stars": 936
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -706,7 +749,8 @@
                 "owner": "googlesamples",
                 "repo": "vulkan-basic-samples",
                 "stars": 544
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             }
           ]
         }
@@ -730,11 +774,12 @@
                 "archived": false,
                 "id": 22067521,
                 "language": "C++",
-                "last_commit": "2026-08-23T11:05:37Z",
+                "last_commit": "2026-08-28T10:40:44Z",
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 75889
-              }
+                "stars": 75908
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -745,11 +790,12 @@
                 "archived": false,
                 "id": 15773229,
                 "language": "C++",
-                "last_commit": "2026-08-27T08:28:49Z",
+                "last_commit": "2026-08-28T05:43:48Z",
                 "owner": "google",
                 "repo": "skia",
-                "stars": 10906
-              }
+                "stars": 10907
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -763,8 +809,9 @@
                 "last_commit": "2026-07-10T08:55:18Z",
                 "owner": "jpbruyere",
                 "repo": "vkvg",
-                "stars": 814
-              }
+                "stars": 815
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             }
           ]
         },
@@ -782,11 +829,12 @@
                 "archived": false,
                 "id": 95879426,
                 "language": "C++",
-                "last_commit": "2026-08-25T03:21:15Z",
+                "last_commit": "2026-08-28T08:45:31Z",
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23755
-              }
+                "stars": 23761
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -801,7 +849,8 @@
                 "owner": "KomputeProject",
                 "repo": "kompute",
                 "stars": 2559
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -816,7 +865,8 @@
                 "owner": "DTolm",
                 "repo": "VkFFT",
                 "stars": 1769
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -831,7 +881,8 @@
                 "owner": "Glavnokoman",
                 "repo": "vuh",
                 "stars": 347
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -846,7 +897,8 @@
                 "owner": "uNetworking",
                 "repo": "libvc",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             }
           ]
         },
@@ -873,7 +925,8 @@
                     "owner": "malte-v",
                     "repo": "VulkanMemoryAllocator-Hpp",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:34:54.165Z"
                 }
               ],
               "repo_info": {
@@ -883,8 +936,9 @@
                 "last_commit": "2026-06-04T22:51:09Z",
                 "owner": "GPUOpen-LibrariesAndSDKs",
                 "repo": "VulkanMemoryAllocator",
-                "stars": 3480
-              }
+                "stars": 3481
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -895,11 +949,12 @@
                 "archived": false,
                 "id": 237139329,
                 "language": "C++",
-                "last_commit": "2026-08-27T00:18:36Z",
+                "last_commit": "2026-08-27T14:40:02Z",
                 "owner": "charles-lunarg",
                 "repo": "vk-bootstrap",
                 "stars": 1276
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -914,7 +969,8 @@
                 "owner": "GPUOpen-LibrariesAndSDKs",
                 "repo": "V-EZ",
                 "stars": 890
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -929,7 +985,8 @@
                 "owner": "andy-thomason",
                 "repo": "Vookoo",
                 "stars": 539
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -944,7 +1001,8 @@
                 "owner": "azhirnov",
                 "repo": "FrameGraph",
                 "stars": 427
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -955,11 +1013,12 @@
                 "archived": false,
                 "id": 272821902,
                 "language": "Rust",
-                "last_commit": "2026-08-26T12:50:56Z",
+                "last_commit": "2026-08-27T14:31:43Z",
                 "owner": "attackgoat",
                 "repo": "vk-graph",
                 "stars": 341
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -974,7 +1033,8 @@
                 "owner": "nyorain",
                 "repo": "vpp",
                 "stars": 261
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -989,7 +1049,8 @@
                 "owner": "google",
                 "repo": "vulkan-cpp-library",
                 "stars": 251
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1004,7 +1065,8 @@
                 "owner": "renelindsay",
                 "repo": "Vulkan-WSIWindow",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1019,7 +1081,8 @@
                 "owner": "Themaister",
                 "repo": "Fossilize",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             }
           ]
         },
@@ -1037,11 +1100,12 @@
                 "archived": false,
                 "id": 3925242,
                 "language": "C++",
-                "last_commit": "2026-08-26T06:40:47Z",
+                "last_commit": "2026-08-27T19:27:49Z",
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17434
-              }
+                "stars": 17438
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1055,8 +1119,9 @@
                 "last_commit": "2026-08-04T16:34:20Z",
                 "owner": "glfw",
                 "repo": "glfw",
-                "stars": 15287
-              }
+                "stars": 15291
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1067,11 +1132,12 @@
                 "archived": false,
                 "id": 105600991,
                 "language": "C++",
-                "last_commit": "2025-07-03T23:20:30Z",
+                "last_commit": "2026-08-27T22:50:15Z",
                 "owner": "ConfettiFX",
                 "repo": "The-Forge",
                 "stars": 5642
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1086,7 +1152,8 @@
                 "owner": "cinder",
                 "repo": "Cinder",
                 "stars": 5536
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1100,8 +1167,9 @@
                 "last_commit": "2026-08-16T20:18:01Z",
                 "owner": "DiligentGraphics",
                 "repo": "DiligentEngine",
-                "stars": 4416
-              }
+                "stars": 4417
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1116,7 +1184,8 @@
                 "owner": "NVIDIAGameWorks",
                 "repo": "Falcor",
                 "stars": 3219
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1131,7 +1200,8 @@
                 "owner": "EQMG",
                 "repo": "Acid",
                 "stars": 2019
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1142,11 +1212,12 @@
                 "archived": false,
                 "id": 125349427,
                 "language": "C++",
-                "last_commit": "2026-08-27T09:50:01Z",
+                "last_commit": "2026-08-27T14:47:49Z",
                 "owner": "GameFoundry",
                 "repo": "B3DFramework",
                 "stars": 1922
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1161,7 +1232,8 @@
                 "owner": "begla",
                 "repo": "Intrinsic",
                 "stars": 1044
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1176,7 +1248,8 @@
                 "owner": "liblava",
                 "repo": "liblava",
                 "stars": 885
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1191,7 +1264,8 @@
                 "owner": "powervr-graphics",
                 "repo": "Native_SDK",
                 "stars": 774
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1202,11 +1276,12 @@
                 "archived": false,
                 "id": 189206704,
                 "language": "C++",
-                "last_commit": "2026-08-27T05:05:45Z",
+                "last_commit": "2026-08-28T11:28:37Z",
                 "owner": "Devsh-Graphics-Programming",
                 "repo": "Nabla",
                 "stars": 712
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1221,7 +1296,8 @@
                 "owner": "GPUOpen-Archive",
                 "repo": "Anvil",
                 "stars": 610
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1236,7 +1312,8 @@
                 "owner": "cg-tuwien",
                 "repo": "Auto-Vk-Toolkit",
                 "stars": 446
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1251,7 +1328,8 @@
                 "owner": "nxp-imx",
                 "repo": "gtec-demo-framework",
                 "stars": 338
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1266,7 +1344,8 @@
                 "owner": "cg-tuwien",
                 "repo": "Auto-Vk",
                 "stars": 299
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1281,7 +1360,8 @@
                 "owner": "pumexx",
                 "repo": "pumex",
                 "stars": 296
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1296,7 +1376,8 @@
                 "owner": "Lugdunum3D",
                 "repo": "Lugdunum",
                 "stars": 246
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1311,7 +1392,8 @@
                 "owner": "GPUOpen-LibrariesAndSDKs",
                 "repo": "HelloVulkan",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1331,7 +1413,8 @@
                     "owner": "cg-tuwien",
                     "repo": "VulkanLaunchpadStarter",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:34:54.165Z"
                 }
               ],
               "repo_info": {
@@ -1342,7 +1425,8 @@
                 "owner": "cg-tuwien",
                 "repo": "VulkanLaunchpad",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1357,7 +1441,8 @@
                 "owner": "openframeworks-vk",
                 "repo": "openFrameworks",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1372,7 +1457,8 @@
                 "owner": "Dolkar",
                 "repo": "Tephra",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1387,7 +1473,8 @@
                 "owner": "UL-FRI-LGM",
                 "repo": "Logi",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1402,7 +1489,8 @@
                 "owner": "mwalczyk",
                 "repo": "plume",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1417,7 +1505,8 @@
                 "owner": "MHDtA-dev",
                 "repo": "VKFS",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             }
           ]
         },
@@ -1438,8 +1527,9 @@
                 "last_commit": "2026-08-25T23:02:32Z",
                 "owner": "KhronosGroup",
                 "repo": "MoltenVK",
-                "stars": 5805
-              }
+                "stars": 5806
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1454,7 +1544,8 @@
                 "owner": "jgbit",
                 "repo": "vuda",
                 "stars": 916
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1465,11 +1556,12 @@
                 "archived": false,
                 "id": 97020137,
                 "language": "LLVM",
-                "last_commit": "2026-08-27T05:08:58Z",
+                "last_commit": "2026-08-27T22:31:54Z",
                 "owner": "google",
                 "repo": "clspv",
                 "stars": 726
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1484,7 +1576,8 @@
                 "owner": "gfx-rs",
                 "repo": "portability",
                 "stars": 389
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1499,7 +1592,8 @@
                 "owner": "g-truc",
                 "repo": "glo",
                 "stars": 278
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1514,7 +1608,8 @@
                 "owner": "msiglreith",
                 "repo": "rostkatze",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1529,7 +1624,8 @@
                 "owner": "baldurk",
                 "repo": "visor",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             }
           ]
         },
@@ -1551,7 +1647,8 @@
                 "owner": "Nadrin",
                 "repo": "Quartz",
                 "stars": 447
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             }
           ]
         },
@@ -1569,11 +1666,12 @@
                 "archived": false,
                 "id": 281501204,
                 "language": "C",
-                "last_commit": "2026-08-26T15:55:53Z",
+                "last_commit": "2026-08-28T11:20:38Z",
                 "owner": "datoviz",
                 "repo": "datoviz",
                 "stars": 806
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             }
           ]
         },
@@ -1595,7 +1693,8 @@
                 "owner": "KhronosGroup",
                 "repo": "glslang",
                 "stars": 3568
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             },
             {
               "node_type": "item",
@@ -1609,8 +1708,9 @@
                 "last_commit": "2026-07-31T13:06:58Z",
                 "owner": "KhronosGroup",
                 "repo": "SPIRV-Cross",
-                "stars": 2494
-              }
+                "stars": 2495
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             }
           ]
         },
@@ -1632,7 +1732,8 @@
                 "owner": "nvpro-pipeline",
                 "repo": "VkHLF",
                 "stars": 329
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             }
           ]
         }
@@ -1655,7 +1756,8 @@
             "owner": "gfx-rs",
             "repo": "gfx",
             "stars": 5398
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -1670,7 +1772,8 @@
             "owner": "dotnet",
             "repo": "Silk.NET",
             "stars": 5174
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -1684,8 +1787,9 @@
             "last_commit": "2026-08-26T12:50:26Z",
             "owner": "vulkano-rs",
             "repo": "vulkano",
-            "stars": 5143
-          }
+            "stars": 5144
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -1696,11 +1800,12 @@
             "archived": false,
             "id": 61292682,
             "language": "C++",
-            "last_commit": "2026-08-27T11:02:10Z",
+            "last_commit": "2026-08-28T02:50:52Z",
             "owner": "KhronosGroup",
             "repo": "Vulkan-Hpp",
-            "stars": 3782
-          }
+            "stars": 3783
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -1711,11 +1816,12 @@
             "archived": false,
             "id": 65640886,
             "language": "Rust",
-            "last_commit": "2026-08-27T09:27:53Z",
+            "last_commit": "2026-08-28T09:39:28Z",
             "owner": "ash-rs",
             "repo": "ash",
             "stars": 2332
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -1730,7 +1836,8 @@
             "owner": "maierfelix",
             "repo": "nvk",
             "stars": 947
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -1744,8 +1851,9 @@
             "last_commit": "2026-08-23T16:31:44Z",
             "owner": "Snektron",
             "repo": "vulkan-zig",
-            "stars": 902
-          }
+            "stars": 903
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -1760,7 +1868,8 @@
             "owner": "vulkan-go",
             "repo": "vulkan",
             "stars": 805
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -1775,7 +1884,8 @@
             "owner": "realitix",
             "repo": "vulkan",
             "stars": 564
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -1790,7 +1900,8 @@
             "owner": "mono",
             "repo": "VulkanSharp",
             "stars": 531
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -1805,7 +1916,8 @@
             "owner": "amerkoleci",
             "repo": "Vortice.Vulkan",
             "stars": 396
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -1816,11 +1928,12 @@
             "archived": false,
             "id": 52313841,
             "language": "Pascal",
-            "last_commit": "2026-08-27T12:01:01Z",
+            "last_commit": "2026-08-28T09:24:49Z",
             "owner": "BeRo1985",
             "repo": "pasvulkan",
             "stars": 225
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -1835,7 +1948,8 @@
             "owner": "mosra",
             "repo": "flextgl",
             "stars": 207
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -1850,7 +1964,8 @@
             "owner": "expipiplus1",
             "repo": "vulkan",
             "stars": 169
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -1865,7 +1980,8 @@
             "owner": "FacticiusVir",
             "repo": "SharpVk",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -1880,7 +1996,8 @@
             "owner": "kotlin-graphics",
             "repo": "vkk",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -1895,7 +2012,8 @@
             "owner": "CapsAdmin",
             "repo": "ffibuild",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -1910,7 +2028,8 @@
             "owner": "ParticlePeter",
             "repo": "ErupteD",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -1925,7 +2044,8 @@
             "owner": "deno-windowing",
             "repo": "vulkan",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -1940,7 +2060,8 @@
             "owner": "ColonelThirtyTwo",
             "repo": "dvulkan",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         }
       ],
       "title": "Bindings"
@@ -1966,18 +2087,20 @@
                 "owner": "azhirnov",
                 "repo": "RDCtoVkCpp",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             }
           ],
           "repo_info": {
             "archived": false,
             "id": 17253131,
             "language": "C++",
-            "last_commit": "2026-08-26T10:43:45Z",
+            "last_commit": "2026-08-28T12:18:49Z",
             "owner": "baldurk",
             "repo": "renderdoc",
-            "stars": 11027
-          }
+            "stars": 11028
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -1992,7 +2115,8 @@
             "owner": "flightlessmango",
             "repo": "MangoHud",
             "stars": 8980
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -2007,7 +2131,8 @@
             "owner": "google",
             "repo": "gapid",
             "stars": 2240
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -2022,7 +2147,8 @@
             "owner": "GPUOpen-Archive",
             "repo": "CodeXL",
             "stars": 1009
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -2033,11 +2159,12 @@
             "archived": false,
             "id": 50691713,
             "language": "C++",
-            "last_commit": "2026-08-26T14:50:12Z",
+            "last_commit": "2026-08-27T14:38:48Z",
             "owner": "LunarG",
             "repo": "VulkanTools",
             "stars": 770
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -2052,7 +2179,8 @@
             "owner": "KhronosGroup",
             "repo": "Vulkan-LoaderAndValidationLayers",
             "stars": 412
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -2067,7 +2195,8 @@
             "owner": "GPUOpen-Tools",
             "repo": "ocat",
             "stars": 363
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -2082,7 +2211,8 @@
             "owner": "ARM-software",
             "repo": "perfdoc",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -2097,7 +2227,8 @@
             "owner": "azhirnov",
             "repo": "glsl_trace",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         }
       ],
       "title": "Tools"
@@ -2123,7 +2254,8 @@
                 "owner": "PacktPublishing",
                 "repo": "Learning-Vulkan",
                 "stars": 247
-              }
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             }
           ]
         },
@@ -2144,8 +2276,9 @@
                 "last_commit": "2023-01-18T09:57:50Z",
                 "owner": "PacktPublishing",
                 "repo": "Vulkan-Cookbook",
-                "stars": 898
-              }
+                "stars": 899
+              },
+              "first_seen": "2026-08-28T12:34:54.165Z"
             }
           ]
         }
@@ -2167,8 +2300,9 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500369
-          }
+            "stars": 500713
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -2182,8 +2316,9 @@
             "last_commit": "2026-08-25T12:55:42Z",
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17204
-          }
+            "stars": 17209
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -2198,7 +2333,8 @@
             "owner": "eug",
             "repo": "awesome-opengl",
             "stars": 2437
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -2213,7 +2349,8 @@
             "owner": "mattdesl",
             "repo": "graphics-resources",
             "stars": 1853
-          }
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         },
         {
           "node_type": "item",
@@ -2227,15 +2364,16 @@
             "last_commit": "2018-12-18T04:44:06Z",
             "owner": "vinjn",
             "repo": "awesome-d3d12",
-            "stars": 261
-          }
+            "stars": 263
+          },
+          "first_seen": "2026-08-28T12:34:54.165Z"
         }
       ],
       "title": "Related lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:10:07.219Z",
+    "last_updated": "2026-08-28T12:34:54.165Z",
     "original_repository_info": {
       "archived": false,
       "id": 51843752,
@@ -2243,7 +2381,7 @@
       "last_commit": "2026-05-11T04:37:02Z",
       "owner": "vinjn",
       "repo": "awesome-vulkan",
-      "stars": 3713
+      "stars": 3714
     },
     "original_repository_sha": "6b4fb31552e35432eaf0a737badda5e0cee64c5b",
     "enhanced_repository": "enhansome/enhansome-vulkan",
