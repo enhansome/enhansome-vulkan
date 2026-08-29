@@ -127,12 +127,12 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 
 ## Apps
 
-* [vkQuake](https://github.com/Novum/vkQuake) ⭐ 2,263 | 🐛 29 | 🌐 C | 📅 2026-08-29 - Vulkan Quake port based on QuakeSpasm. \[GPL]
+* [vkQuake](https://github.com/Novum/vkQuake) ⭐ 2,263 | 🐛 26 | 🌐 C | 📅 2026-08-29 - Vulkan Quake port based on QuakeSpasm. \[GPL]
 * [Q2RTX](https://github.com/NVIDIA/Q2RTX) ⚠️ Archived - NVIDIA’s implementation of RTX ray-tracing in Quake II. \[[LICENSE](https://github.com/NVIDIA/Q2RTX/blob/master/license.txt) ⚠️ Archived]
 * [Linux port of SteamVR](https://github.com/ValveSoftware/SteamVR-for-Linux) ⭐ 1,064 | 🐛 437 | 📅 2026-06-06 - SteamVR is built on top of the Vulkan API.
 * [vkQuake2](https://github.com/kondrak/vkQuake2) ⭐ 1,007 | 🐛 1 | 🌐 C | 📅 2026-08-26 - id Software's Quake 2 v3.21 with Vulkan support (Windows and Linux). \[GPL]
 * [q2vkpt](https://github.com/cschied/q2vkpt/) ⭐ 963 | 🐛 29 | 🌐 C | 📅 2019-05-10 - Real-time path tracer VKPT integrated into q2pro Quake 2 client. \[gpl]
-* [DDraceNetwork](https://github.com/ddnet/ddnet/) ⭐ 819 | 🐛 1,008 | 🌐 C++ | 📅 2026-08-28 - Cooperative 2D platformer with optional [Vulkan backend](https://github.com/ddnet/ddnet/blob/master/src/engine/client/backend/vulkan/backend_vulkan.cpp) ⭐ 819 | 🐛 1,008 | 🌐 C++ | 📅 2026-08-28. - [zlib](https://github.com/ddnet/ddnet/blob/master/license.txt) ⭐ 819 | 🐛 1,008 | 🌐 C++ | 📅 2026-08-28 [website](https://ddnet.tw/)
+* [DDraceNetwork](https://github.com/ddnet/ddnet/) ⭐ 819 | 🐛 1,010 | 🌐 C++ | 📅 2026-08-29 - Cooperative 2D platformer with optional [Vulkan backend](https://github.com/ddnet/ddnet/blob/master/src/engine/client/backend/vulkan/backend_vulkan.cpp) ⭐ 819 | 🐛 1,010 | 🌐 C++ | 📅 2026-08-29. - [zlib](https://github.com/ddnet/ddnet/blob/master/license.txt) ⭐ 819 | 🐛 1,010 | 🌐 C++ | 📅 2026-08-29 [website](https://ddnet.tw/)
 * [Dota2](https://github.com/ValveSoftware/Dota-2-Vulkan/) ⭐ 105 | 🐛 169 | 📅 2023-12-04 - by Valve.
 * [The Talos Principle](http://www.croteam.com/talos-principle-will-support-vulkan-first-screenshot-released/) - by Croteam.
 * [Basemark](https://www.basemark.com/blog/basemark-extends-its-benchmarking-lead-with-a-vulkan-performance-test/) - by Basemark.
@@ -143,9 +143,9 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 
 ## Samples
 
-* Sascha Willems's [samples](https://github.com/SaschaWillems/Vulkan) ⭐ 12,129 | 🐛 17 | 🌐 GLSL | 📅 2026-08-28 and [Deferred rendering of Sponza](https://github.com/SaschaWillems/VulkanSponza) ⚠️ Archived and his talk of [Khronos\_meetup\_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
+* Sascha Willems's [samples](https://github.com/SaschaWillems/Vulkan) ⭐ 12,130 | 🐛 17 | 🌐 GLSL | 📅 2026-08-28 and [Deferred rendering of Sponza](https://github.com/SaschaWillems/VulkanSponza) ⚠️ Archived and his talk of [Khronos\_meetup\_munich](https://www.saschawillems.de/blog/2016/04/11/khronos-chapter-munich-vulkan-slides/).
 * Khronos [Vulkan samples](https://github.com/KhronosGroup/Vulkan-Samples) ⭐ 5,362 | 🐛 64 | 🌐 C++ | 📅 2026-08-24 \[[LICENSE](https://github.com/KhronosGroup/Vulkan-Samples/blob/master/LICENSE) ⭐ 5,362 | 🐛 64 | 🌐 C++ | 📅 2026-08-24]
-* [Vulkan Quake port based on QuakeSpasm](https://github.com/Novum/vkQuake) ⭐ 2,263 | 🐛 29 | 🌐 C | 📅 2026-08-29.
+* [Vulkan Quake port based on QuakeSpasm](https://github.com/Novum/vkQuake) ⭐ 2,263 | 🐛 26 | 🌐 C | 📅 2026-08-29.
 * [Ray Tracing In One Weekend (Vulkan RTX)](https://github.com/GPSnoopy/RayTracingInVulkan) ⭐ 1,513 | 🐛 10 | 🌐 C++ | 📅 2025-06-26 - Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.
 * [LunarG's Samples](https://github.com/LunarG/VulkanSamples) ⚠️ Archived
 * Sascha Willems's [Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR) ⭐ 1,196 | 🐛 2 | 🌐 C++ | 📅 2026-07-07 - physical based rendering with Vulkan using glTF 2.0 models. \[MIT]
@@ -181,12 +181,12 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 ## Libraries
 
 * 2D
-  * [imgui](https://github.com/ocornut/imgui) ⭐ 75,919 | 🐛 1,239 | 🌐 C++ | 📅 2026-08-28 - Immediate Mode Graphical User interface. \[MIT]
+  * [imgui](https://github.com/ocornut/imgui) ⭐ 75,925 | 🐛 1,240 | 🌐 C++ | 📅 2026-08-28 - Immediate Mode Graphical User interface. \[MIT]
   * [Skia](https://skia.googlesource.com/skia) - Google's 2D graphics library has a [Vulkan](https://skia.org/user/special/vulkan) [backend](https://github.com/google/skia/tree/master/src/gpu/vk) ⭐ 10,908 | 🐛 50 | 🌐 C++ | 📅 2026-08-29, demonstrated in a cross-platform [sample application](https://skia.org/user/sample/viewer) with its own [window library](https://github.com/google/skia/tree/master/tools/viewer) ⭐ 10,908 | 🐛 50 | 🌐 C++ | 📅 2026-08-29. \[BSD 3-clause] [website](https://skia.org)
   * [VKVG](https://github.com/jpbruyere/vkvg) ⭐ 815 | 🐛 38 | 🌐 C | 📅 2026-07-10 - Vulkan 2D graphics library, API follows the same pattern as Cairo graphics lib, but with new functions.
 
 * Compute
-  * [ncnn](https://github.com/Tencent/ncnn) ⭐ 23,764 | 🐛 1,228 | 🌐 C++ | 📅 2026-08-28 - High-performance neural network inference framework with Vulkan based GPU inference. \[BSD 3-clause]
+  * [ncnn](https://github.com/Tencent/ncnn) ⭐ 23,764 | 🐛 1,229 | 🌐 C++ | 📅 2026-08-28 - High-performance neural network inference framework with Vulkan based GPU inference. \[BSD 3-clause]
   * [Vulkan Kompute](https://github.com/axsaucedo/vulkan-kompute) ⭐ 2,559 | 🐛 78 | 🌐 C++ | 📅 2026-08-15 - Blazing fast and lightweight Vulkan Compute Framework optimized for advanced GPU processing usecases. \[Apache License 2.0]
   * [VkFFT](https://github.com/DTolm/VkFFT) ⭐ 1,770 | 🐛 99 | 🌐 C++ | 📅 2026-04-04 - Efficient Vulkan FFT library \[MPL-2.0 License]
   * [vuh](https://github.com/Glavnokoman/vuh) ⭐ 347 | 🐛 19 | 🌐 C++ | 📅 2023-10-15 - Vulkan-based C++ GPGPU computing framework. \[MIT]
@@ -208,7 +208,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 
 * Frameworks, Engines, Higher Level Rendering
   * [bgfx](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) ⭐ 17,440 | 🐛 285 | 🌐 C++ | 📅 2026-08-28 - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. \[[BSD-2-clause](https://github.com/bkaradzic/bgfx/blob/master/LICENSE) ⭐ 17,440 | 🐛 285 | 🌐 C++ | 📅 2026-08-28]
-  * [glfw](https://github.com/glfw/glfw) ⭐ 15,291 | 🐛 762 | 🌐 C | 📅 2026-08-04 and [the guide](http://www.glfw.org/docs/3.2/vulkan.html).  \[[LICENSE](https://github.com/glfw/glfw/blob/master/LICENSE.md) ⭐ 15,291 | 🐛 762 | 🌐 C | 📅 2026-08-04]
+  * [glfw](https://github.com/glfw/glfw) ⭐ 15,293 | 🐛 762 | 🌐 C | 📅 2026-08-04 and [the guide](http://www.glfw.org/docs/3.2/vulkan.html).  \[[LICENSE](https://github.com/glfw/glfw/blob/master/LICENSE.md) ⭐ 15,293 | 🐛 762 | 🌐 C | 📅 2026-08-04]
   * [The-Forge](https://github.com/ConfettiFX/The-Forge) ⭐ 5,642 | 🐛 14 | 🌐 C++ | 📅 2026-08-27 - DirectX 12, Vulkan, macOS Metal 2 rendering framework. \[Apache License 2.0]
   * [Cinder](https://github.com/cinder/Cinder) ⭐ 5,536 | 🐛 360 | 🌐 C++ | 📅 2026-03-20 and [the story](https://libcinder.org/notes/vulkan) [behind](https://forum.libcinder.org/#Topic/23286000002614007). \[BSD]
   * [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) ⭐ 4,417 | 🐛 24 | 🌐 Batchfile | 📅 2026-08-16 - a modern cross-platform low-level graphics library that supports OpenGL/GLES, Direct3D11/12 and Vulkan. \[Apache License 2.0]
@@ -256,7 +256,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
   * [iMSTK](https://gitlab.kitware.com/iMSTK/iMSTK) - C++ toolkit for building surgical simulations with Vulkan and VTK backends. \[Apache License 2.0]
 
 * Shaders
-  * [glslang](https://github.com/KhronosGroup/glslang) ⭐ 3,568 | 🐛 403 | 🌐 C++ | 📅 2026-08-24 - Library for compiling glsl to spirv \[BSD 3-Clause]
+  * [glslang](https://github.com/KhronosGroup/glslang) ⭐ 3,569 | 🐛 403 | 🌐 C++ | 📅 2026-08-24 - Library for compiling glsl to spirv \[BSD 3-Clause]
   * [SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) ⭐ 2,496 | 🐛 155 | 🌐 GLSL | 📅 2026-07-31 - Library for reflection of spirv, simplify the creation of Vulkan pipeline layouts \[ Apache-2.0 License]
 
 * Outdated ⚠️
@@ -266,7 +266,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 
 * [gfx-rs](https://github.com/gfx-rs/gfx) ⭐ 5,399 | 🐛 331 | 🌐 Rust | 📅 2023-02-27 - A low-overhead Vulkan-like GPU API for Rust. \[Apache License 2.0]
 * [Silk.NET](https://github.com/dotnet/Silk.NET) ⭐ 5,177 | 🐛 103 | 🌐 C# | 📅 2026-08-25 - C# bindings for Vulkan and others. \[MIT]
-* [Vulkano](https://github.com/vulkano-rs/vulkano) ⭐ 5,145 | 🐛 89 | 🌐 Rust | 📅 2026-08-26 - Safe and rich Rust wrapper around the Vulkan API. \[MIT]
+* [Vulkano](https://github.com/vulkano-rs/vulkano) ⭐ 5,146 | 🐛 89 | 🌐 Rust | 📅 2026-08-26 - Safe and rich Rust wrapper around the Vulkan API. \[MIT]
 * [Vulkan-hpp](https://github.com/KhronosGroup/Vulkan-Hpp) ⭐ 3,783 | 🐛 28 | 🌐 C++ | 📅 2026-08-28 Open-Source Vulkan C++ API originated from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
 * [ash](https://github.com/MaikKlein/ash) ⭐ 2,333 | 🐛 78 | 🌐 Rust | 📅 2026-08-28 - Vulkan bindings for Rust. \[MIT]
 * [nvk](https://github.com/maierfelix/nvk) ⭐ 947 | 🐛 6 | 🌐 C++ | 📅 2021-01-03 - JavaScript bindings for Vulkan. \[MIT]
@@ -290,9 +290,9 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 
 ## Tools
 
-* [renderdoc](https://github.com/baldurk/renderdoc) ⭐ 11,032 | 🐛 49 | 🌐 C++ | 📅 2026-08-28 - by baldurk, a stand-alone graphics debugging tool. \[MIT]
+* [renderdoc](https://github.com/baldurk/renderdoc) ⭐ 11,033 | 🐛 49 | 🌐 C++ | 📅 2026-08-28 - by baldurk, a stand-alone graphics debugging tool. \[MIT]
   * [RDCtoVkCpp](https://github.com/azhirnov/RDCtoVkCpp) ⚠️ Archived - converts RenderDoc Vulkan capture to compilable and executable C++ code. \[MIT]
-* [MangoHud](https://github.com/flightlessmango/MangoHud) ⭐ 8,984 | 🐛 327 | 🌐 C | 📅 2026-08-25 - Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load. \[MIT]
+* [MangoHud](https://github.com/flightlessmango/MangoHud) ⭐ 8,983 | 🐛 327 | 🌐 C | 📅 2026-08-25 - Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load. \[MIT]
 * [gapid](https://github.com/google/gapid) ⭐ 2,240 | 🐛 338 | 🌐 Go | 📅 2024-05-08 - Graphics API Debugger, can trace and replay Android OpenGL ES and Vulkan applications. \[Apache License 2.0]
 * [CodeXL](https://github.com/GPUOpen-Tools/CodeXL) ⚠️ Archived - CodeXL goes open source. \[MIT]
 * [VulkanTools](https://github.com/LunarG/VulkanTools) ⭐ 771 | 🐛 50 | 🌐 C++ | 📅 2026-08-27 - LunarG's tools including layers and configurator. \[Apache Licence 2.0]
@@ -366,7 +366,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 
 ## Related lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,890 | 🐛 105 | 📅 2026-08-21 - Curated list of awesome lists.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,932 | 🐛 105 | 📅 2026-08-21 - Curated list of awesome lists.
 * [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,212 | 🐛 14 | 🌐 Markdown | 📅 2026-08-29 - Awesome list about game development.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,437 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,854 | 🐛 5 | 📅 2020-12-30 - List of graphic programming resources.

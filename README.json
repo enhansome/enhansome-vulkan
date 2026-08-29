@@ -203,7 +203,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-08-29T00:58:14Z",
-            "open_issues": 29,
+            "open_issues": 26,
             "owner": "Novum",
             "repo": "vkQuake",
             "stars": 2263,
@@ -334,8 +334,8 @@
             "id": 22821674,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T18:20:29Z",
-            "open_issues": 1008,
+            "last_commit": "2026-08-29T07:37:15Z",
+            "open_issues": 1010,
             "owner": "ddnet",
             "repo": "ddnet",
             "stars": 819,
@@ -402,7 +402,7 @@
             "open_issues": 17,
             "owner": "SaschaWillems",
             "repo": "Vulkan",
-            "stars": 12129,
+            "stars": 12130,
             "topics": [
               "glsl",
               "hlsl",
@@ -457,7 +457,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-08-29T00:58:14Z",
-            "open_issues": 29,
+            "open_issues": 26,
             "owner": "Novum",
             "repo": "vkQuake",
             "stars": 2263,
@@ -1161,10 +1161,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-08-28T10:40:44Z",
-                "open_issues": 1239,
+                "open_issues": 1240,
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 75919,
+                "stars": 75925,
                 "topics": [
                   "api",
                   "cplusplus",
@@ -1257,7 +1257,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T12:35:36Z",
-                "open_issues": 1228,
+                "open_issues": 1229,
                 "owner": "Tencent",
                 "repo": "ncnn",
                 "stars": 23764,
@@ -1751,7 +1751,7 @@
                 "open_issues": 762,
                 "owner": "glfw",
                 "repo": "glfw",
-                "stars": 15291,
+                "stars": 15293,
                 "topics": [
                   "c",
                   "linux",
@@ -2721,7 +2721,7 @@
                 "open_issues": 403,
                 "owner": "KhronosGroup",
                 "repo": "glslang",
-                "stars": 3568,
+                "stars": 3569,
                 "topics": [
                   "compiler",
                   "essl",
@@ -2880,7 +2880,7 @@
             "open_issues": 89,
             "owner": "vulkano-rs",
             "repo": "vulkano",
-            "stars": 5145,
+            "stars": 5146,
             "topics": [
               "graphics-programming",
               "rust",
@@ -3367,7 +3367,7 @@
             "open_issues": 49,
             "owner": "baldurk",
             "repo": "renderdoc",
-            "stars": 11032,
+            "stars": 11033,
             "topics": [
               "d3d11",
               "d3d12",
@@ -3400,7 +3400,7 @@
             "open_issues": 327,
             "owner": "flightlessmango",
             "repo": "MangoHud",
-            "stars": 8984,
+            "stars": 8983,
             "topics": [
               "benchmarking",
               "hud",
@@ -3677,7 +3677,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500890,
+            "stars": 500932,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3813,7 +3813,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:20:07.126Z",
+    "last_updated": "2026-08-29T07:43:53.927Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vulkan ecosystem",
