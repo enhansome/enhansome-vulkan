@@ -15,12 +15,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vulkan best practice for mobile developers",
+                "homepage": null,
                 "id": 163859532,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-06T14:42:05Z",
+                "open_issues": 0,
                 "owner": "ARM-software",
                 "repo": "vulkan_best_practice_for_mobile_developers",
-                "stars": 685
+                "stars": 685,
+                "topics": [
+                  "android",
+                  "arm",
+                  "graphics",
+                  "hwcpipe",
+                  "mobile",
+                  "moltenvk",
+                  "performance",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             }
@@ -38,12 +52,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Source code examples for \"API without Secrets: Introduction to Vulkan\" tutorial",
+                "homepage": "https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-preface",
                 "id": 53700934,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-31T16:23:58Z",
+                "open_issues": 4,
                 "owner": "GameTechDev",
                 "repo": "IntroductionToVulkan",
-                "stars": 1302
+                "stars": 1302,
+                "topics": [
+                  "cpp",
+                  "intel",
+                  "tutorial",
+                  "tutorials",
+                  "vulkan",
+                  "vulkan-api",
+                  "vulkan-demos"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             }
@@ -61,12 +88,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One stop shop for getting started with the Vulkan API",
+                "homepage": null,
                 "id": 218773739,
                 "language": "Makefile",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-07-27T23:05:32Z",
+                "open_issues": 6,
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Guide",
-                "stars": 2282
+                "stars": 2282,
+                "topics": [
+                  "khronos",
+                  "vulkan",
+                  "vulkan-guide"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             }
@@ -85,12 +121,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tutorial for the Vulkan graphics and compute API",
+            "homepage": "https://vulkan-tutorial.com",
             "id": 31612175,
             "language": "C++",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-05-18T08:13:09Z",
+            "open_issues": 76,
             "owner": "Overv",
             "repo": "VulkanTutorial",
-            "stars": 3684
+            "stars": 3684,
+            "topics": [
+              "computer-graphics",
+              "cpp",
+              "graphics-programming",
+              "reference",
+              "tutorial",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -101,12 +149,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vulkan demos and tutorials.",
+            "homepage": null,
             "id": 52989271,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2017-03-19T16:18:41Z",
+            "open_issues": 0,
             "owner": "Z80Fan",
             "repo": "VulkanDemos",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -117,12 +170,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 52698068,
             "language": "C++",
+            "license": null,
             "last_commit": "2016-03-03T23:36:17Z",
+            "open_issues": 1,
             "owner": "philiptaylor",
             "repo": "vulkan-sxs",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         }
@@ -139,12 +197,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vulkan Quake port based on QuakeSpasm",
+            "homepage": null,
             "id": 63755042,
             "language": "C",
-            "last_commit": "2026-08-27T08:36:23Z",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-29T00:58:14Z",
+            "open_issues": 29,
             "owner": "Novum",
             "repo": "vkQuake",
-            "stars": 2263
+            "stars": 2263,
+            "topics": [
+              "3d-graphics",
+              "gpu",
+              "hardware-acceleration",
+              "quake",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -155,12 +224,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "NVIDIA’s implementation of RTX ray-tracing in Quake II",
+            "homepage": null,
             "id": 189627391,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-11T04:41:41Z",
+            "open_issues": 0,
             "owner": "NVIDIA",
             "repo": "Q2RTX",
-            "stars": 1317
+            "stars": 1317,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -171,12 +245,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Issue tracker for the Linux port of SteamVR",
+            "homepage": null,
             "id": 82735571,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-06T01:21:15Z",
+            "open_issues": 437,
             "owner": "ValveSoftware",
             "repo": "SteamVR-for-Linux",
-            "stars": 1064
+            "stars": 1064,
+            "topics": [
+              "linux",
+              "steamvr",
+              "vr"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -187,12 +270,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "id Software's Quake 2 v3.21 with mission packs and Vulkan support (Windows, Linux, macOS, FreeBSD, Raspberry Pi 4)",
+            "homepage": null,
             "id": 149264967,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-26T14:49:03Z",
+            "open_issues": 1,
             "owner": "kondrak",
             "repo": "vkQuake2",
-            "stars": 1007
+            "stars": 1007,
+            "topics": [
+              "3d-graphics",
+              "freebsd",
+              "gpu",
+              "hardware-acceleration",
+              "linux",
+              "macos",
+              "moltenvk",
+              "quake",
+              "quake2",
+              "vkquake",
+              "vkquake2",
+              "vkquake3",
+              "vulkan",
+              "vulkan-api",
+              "vulkan-game-engine",
+              "vulkan-renderer"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -203,12 +308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time path tracer VKPT integrated into q2pro Quake 2 client.",
+            "homepage": "http://brechpunkt.de/q2vkpt",
             "id": 166279759,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2019-05-10T13:11:45Z",
+            "open_issues": 29,
             "owner": "cschied",
             "repo": "q2vkpt",
-            "stars": 963
+            "stars": 963,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -219,12 +329,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DDraceNetwork, a free cooperative platformer game",
+            "homepage": "https://ddnet.org",
             "id": 22821674,
             "language": "C++",
-            "last_commit": "2026-08-28T11:50:28Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T18:20:29Z",
+            "open_issues": 1008,
             "owner": "ddnet",
             "repo": "ddnet",
-            "stars": 819
+            "stars": 819,
+            "topics": [
+              "2d-game",
+              "ddnet",
+              "game",
+              "hacktoberfest",
+              "linux",
+              "macos",
+              "open-source-game",
+              "opengl",
+              "platformer",
+              "teeworlds",
+              "vulkan",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -235,12 +363,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tracker for issues specific to the Vulkan version of Dota 2 on Windows, Linux, and macOS",
+            "homepage": null,
             "id": 59119774,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-04T16:50:40Z",
+            "open_issues": 169,
             "owner": "ValveSoftware",
             "repo": "Dota-2-Vulkan",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "dota-2",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         }
@@ -257,12 +393,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++ examples for the Vulkan graphics API",
+            "homepage": null,
             "id": 37821236,
             "language": "GLSL",
+            "license": "MIT",
             "last_commit": "2026-08-28T10:37:49Z",
+            "open_issues": 17,
             "owner": "SaschaWillems",
             "repo": "Vulkan",
-            "stars": 12129
+            "stars": 12129,
+            "topics": [
+              "glsl",
+              "hlsl",
+              "slang",
+              "vulkan",
+              "vulkan-api"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -273,12 +420,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One stop solution for all Vulkan samples",
+            "homepage": null,
             "id": 218329478,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T15:39:04Z",
+            "open_issues": 64,
             "owner": "KhronosGroup",
             "repo": "Vulkan-Samples",
-            "stars": 5362
+            "stars": 5362,
+            "topics": [
+              "best-practices",
+              "cpp",
+              "graphics",
+              "graphics-programming",
+              "khronos",
+              "tutorials",
+              "vulkan",
+              "vulkan-api",
+              "vulkan-samples"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -289,12 +451,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vulkan Quake port based on QuakeSpasm",
+            "homepage": null,
             "id": 63755042,
             "language": "C",
-            "last_commit": "2026-08-27T08:36:23Z",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-29T00:58:14Z",
+            "open_issues": 29,
             "owner": "Novum",
             "repo": "vkQuake",
-            "stars": 2263
+            "stars": 2263,
+            "topics": [
+              "3d-graphics",
+              "gpu",
+              "hardware-acceleration",
+              "quake",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -305,12 +478,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Peter Shirley's Ray Tracing In One Weekend book using Vulkan and NVIDIA's RTX extension.",
+            "homepage": null,
             "id": 175968151,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-06-26T09:33:53Z",
+            "open_issues": 10,
             "owner": "GPSnoopy",
             "repo": "RayTracingInVulkan",
-            "stars": 1513
+            "stars": 1513,
+            "topics": [
+              "ray-tracer",
+              "rtx",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -321,12 +503,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Vulkan Samples",
+            "homepage": null,
             "id": 37226382,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2021-07-28T18:49:36Z",
+            "open_issues": 15,
             "owner": "LunarG",
             "repo": "VulkanSamples",
-            "stars": 1424
+            "stars": 1424,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -337,12 +524,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Physical based rendering with Vulkan using glTF 2.0 models",
+            "homepage": null,
             "id": 120181295,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-07-07T16:05:40Z",
+            "open_issues": 2,
             "owner": "SaschaWillems",
             "repo": "Vulkan-glTF-PBR",
-            "stars": 1196
+            "stars": 1196,
+            "topics": [
+              "gltf",
+              "gltf2",
+              "pbr",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -353,12 +550,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Forward+ renderer in Vulkan using Compute Shader. An Upenn CIS565 final project.",
+            "homepage": null,
             "id": 73956272,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2017-04-02T20:49:25Z",
+            "open_issues": 1,
             "owner": "WindyDarian",
             "repo": "Vulkan-Forward-Plus-Renderer",
-            "stars": 697
+            "stars": 697,
+            "topics": [
+              "compute-shader",
+              "forward-plus-shading",
+              "forward-shading",
+              "shading",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -369,12 +577,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vulkan best practice for mobile developers",
+            "homepage": null,
             "id": 163859532,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-06T14:42:05Z",
+            "open_issues": 0,
             "owner": "ARM-software",
             "repo": "vulkan_best_practice_for_mobile_developers",
-            "stars": 685
+            "stars": 685,
+            "topics": [
+              "android",
+              "arm",
+              "graphics",
+              "hwcpipe",
+              "mobile",
+              "moltenvk",
+              "performance",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -385,12 +607,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 77811934,
             "language": "C++",
+            "license": null,
             "last_commit": "2022-10-13T08:51:24Z",
+            "open_issues": 11,
             "owner": "chaoticbob",
             "repo": "tinyrenderers",
-            "stars": 479
+            "stars": 479,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -401,12 +628,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Vulkan implementation of real-time PBR renderer",
+            "homepage": null,
             "id": 73970264,
             "language": "C++",
+            "license": null,
             "last_commit": "2017-03-30T05:48:41Z",
+            "open_issues": 1,
             "owner": "jian-ru",
             "repo": "laugh_engine",
-            "stars": 391
+            "stars": 391,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -417,12 +649,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Vulkan raytracing tutorials",
+            "homepage": null,
             "id": 155103455,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-05-12T18:05:48Z",
+            "open_issues": 0,
             "owner": "iOrange",
             "repo": "rtxON",
-            "stars": 389
+            "stars": 389,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -433,12 +670,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Examples and demos for the Vulkan C++ API",
+            "homepage": "https://github.com/KhronosGroup/Vulkan-Hpp",
             "id": 52753741,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-10-18T21:00:29Z",
+            "open_issues": 20,
             "owner": "jherico",
             "repo": "VulkanExamples",
-            "stars": 361
+            "stars": 361,
+            "topics": [
+              "cpp",
+              "example-code",
+              "examples",
+              "vulkan",
+              "vulkan-api",
+              "vulkan-demos"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -449,12 +698,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Text rendering in Vulkan by estimating signed distance",
+            "homepage": null,
             "id": 82454170,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2025-12-11T13:33:39Z",
+            "open_issues": 1,
             "owner": "kocsis1david",
             "repo": "font-demo",
-            "stars": 253
+            "stars": 253,
+            "topics": [
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -470,12 +726,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simple vulkan rendering example.",
+                "homepage": null,
                 "id": 51843390,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-31T17:39:19Z",
+                "open_issues": 12,
                 "owner": "nvpro-samples",
                 "repo": "gl_vk_chopper",
-                "stars": 210
+                "stars": 210,
+                "topics": [
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -486,12 +749,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "OpenGL and Vulkan comparison on rendering a CAD scene using various techniques",
+                "homepage": null,
                 "id": 51840099,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-31T17:20:18Z",
+                "open_issues": 1,
                 "owner": "nvpro-samples",
                 "repo": "gl_vk_threaded_cadscene",
-                "stars": 168
+                "stars": 168,
+                "topics": [
+                  "command-buffer",
+                  "opengl",
+                  "thread",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -502,12 +775,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Vulkan sample rendering 3D with 'worker-threads'",
+                "homepage": null,
                 "id": 51851215,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-31T18:15:29Z",
+                "open_issues": 2,
                 "owner": "nvpro-samples",
                 "repo": "gl_vk_bk3dthreaded",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "opengl",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -518,24 +799,43 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Vulkan sample showing a high quality super-sampled rendering",
+                "homepage": null,
                 "id": 51851049,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-31T17:41:38Z",
+                "open_issues": 6,
                 "owner": "nvpro-samples",
                 "repo": "gl_vk_supersampled",
-                "stars": 65
+                "stars": 65,
+                "topics": [
+                  "opengl",
+                  "super-resolution",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             }
           ],
           "repo_info": {
             "archived": true,
+            "description": "OpenGL and Vulkan comparison on rendering a CAD scene using various techniques",
+            "homepage": null,
             "id": 51840099,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-31T17:20:18Z",
+            "open_issues": 1,
             "owner": "nvpro-samples",
             "repo": "gl_vk_threaded_cadscene",
-            "stars": 168
+            "stars": 168,
+            "topics": [
+              "command-buffer",
+              "opengl",
+              "thread",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -546,12 +846,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spinning Vulkan Cube",
+            "homepage": null,
             "id": 51853492,
             "language": "C",
+            "license": null,
             "last_commit": "2024-07-23T18:43:12Z",
+            "open_issues": 13,
             "owner": "krh",
             "repo": "vkcube",
-            "stars": 159
+            "stars": 159,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -562,12 +867,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles.",
+            "homepage": null,
             "id": 56578130,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-03T22:53:45Z",
+            "open_issues": 1,
             "owner": "GameTechDev",
             "repo": "stardust_vulkan",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -578,12 +888,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple Vulkan-based renderer for my master thesis on real-time transparency",
+            "homepage": null,
             "id": 69488497,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2017-05-08T06:14:44Z",
+            "open_issues": 10,
             "owner": "trungtle",
             "repo": "TLVulkanRenderer",
-            "stars": 100
+            "stars": 100,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -594,12 +909,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Comparison of OpenGL and Vulkan API in terms of performance.",
+            "homepage": null,
             "id": 83219918,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2022-07-08T16:12:29Z",
+            "open_issues": 4,
             "owner": "RippeR37",
             "repo": "GL_vs_VK",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "benchmark",
+              "comparison",
+              "graphics",
+              "graphics-api",
+              "linux",
+              "opengl",
+              "performance",
+              "vulkan",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -610,12 +940,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Examples and demos for the new Vulkan API ",
+            "homepage": null,
             "id": 89471942,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2019-11-14T14:53:43Z",
+            "open_issues": 0,
             "owner": "jvm-graphics-labs",
             "repo": "Vulkan",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "lwjgl",
+              "vulkan",
+              "vulkan-api"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -626,12 +965,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Basic graphics samples using Magma library and Vulkan graphics API",
+            "homepage": null,
             "id": 126833034,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-06T14:03:55Z",
+            "open_issues": 0,
             "owner": "vcoda",
             "repo": "basic-graphics-samples",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "vulkan",
+              "vulkan-api",
+              "vulkan-graphics"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -642,12 +990,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VK_KHR_ray_tracing example",
+            "homepage": null,
             "id": 248248206,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2020-12-23T21:20:15Z",
+            "open_issues": 1,
             "owner": "maierfelix",
             "repo": "VK_KHR_ray_tracing",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -658,12 +1011,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shadertoy image shader test app with Vulkan.",
+            "homepage": null,
             "id": 91270207,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2017-05-26T10:08:38Z",
+            "open_issues": 0,
             "owner": "jpystynen",
             "repo": "vulkantoy",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -674,12 +1032,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample SharpVk applications using Vulkan API in C#",
+            "homepage": null,
             "id": 68069345,
             "language": "C#",
+            "license": null,
             "last_commit": "2018-01-20T14:03:56Z",
+            "open_issues": 5,
             "owner": "FacticiusVir",
             "repo": "SharpVk-Samples",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -690,12 +1053,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GearsVK: A Vulkan port of the classic 'gears' demo using VKK",
+            "homepage": null,
             "id": 185274006,
             "language": "C",
+            "license": null,
             "last_commit": "2025-11-08T21:17:24Z",
+            "open_issues": 0,
             "owner": "jeffboody",
             "repo": "gearsvk",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -706,12 +1074,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A real-time 1D animation blender and player using Vulkan as graphical back end and ImGui for GUI.",
+            "homepage": null,
             "id": 398653326,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2021-08-23T13:37:47Z",
+            "open_issues": 0,
             "owner": "Red1C3",
             "repo": "Simple-Animation-Blender",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -727,12 +1100,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A set of samples to illustrate Vulkan API on Android",
+                "homepage": null,
                 "id": 53032527,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-11-16T14:37:23Z",
+                "open_issues": 8,
                 "owner": "googlesamples",
                 "repo": "android-vulkan-tutorials",
-                "stars": 936
+                "stars": 936,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -743,12 +1121,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 60720637,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2021-04-28T23:42:36Z",
+                "open_issues": 2,
                 "owner": "googlesamples",
                 "repo": "vulkan-basic-samples",
-                "stars": 544
+                "stars": 544,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             }
@@ -772,12 +1155,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+                "homepage": null,
                 "id": 22067521,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-28T10:40:44Z",
+                "open_issues": 1239,
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 75908
+                "stars": 75919,
+                "topics": [
+                  "api",
+                  "cplusplus",
+                  "framework",
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "gui",
+                  "imgui",
+                  "immediate-gui",
+                  "library",
+                  "multi-platform",
+                  "native",
+                  "toolkit",
+                  "tools",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -788,12 +1192,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.  See documentation for contribution instructions.",
+                "homepage": "https://skia.org",
                 "id": 15773229,
                 "language": "C++",
-                "last_commit": "2026-08-28T05:43:48Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-29T02:08:49Z",
+                "open_issues": 50,
                 "owner": "google",
                 "repo": "skia",
-                "stars": 10907
+                "stars": 10908,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -804,12 +1213,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vulkan 2D graphics library",
+                "homepage": "https://jpbruyere.github.io/vkvg/",
                 "id": 115539227,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-07-10T08:55:18Z",
+                "open_issues": 38,
                 "owner": "jpbruyere",
                 "repo": "vkvg",
-                "stars": 815
+                "stars": 815,
+                "topics": [
+                  "2d",
+                  "cairo",
+                  "drawing-library",
+                  "gpu",
+                  "graphics",
+                  "graphics-library",
+                  "vector",
+                  "vector-graphics",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             }
@@ -827,12 +1251,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+                "homepage": null,
                 "id": 95879426,
                 "language": "C++",
-                "last_commit": "2026-08-28T08:45:31Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T12:35:36Z",
+                "open_issues": 1228,
                 "owner": "Tencent",
                 "repo": "ncnn",
-                "stars": 23761
+                "stars": 23764,
+                "topics": [
+                  "android",
+                  "arm-neon",
+                  "artificial-intelligence",
+                  "caffe",
+                  "darknet",
+                  "deep-learning",
+                  "high-preformance",
+                  "inference",
+                  "ios",
+                  "keras",
+                  "mlir",
+                  "mxnet",
+                  "ncnn",
+                  "neural-network",
+                  "onnx",
+                  "pytorch",
+                  "riscv",
+                  "simd",
+                  "tensorflow",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -843,12 +1293,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "General purpose GPU compute framework built on Vulkan to support 1000s of cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled, asynchronous and optimized for advanced GPU data processing usecases. Backed by the Linux Foundation.",
+                "homepage": "http://kompute.cc/",
                 "id": 283406173,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-15T13:52:13Z",
+                "open_issues": 78,
                 "owner": "KomputeProject",
                 "repo": "kompute",
-                "stars": 2559
+                "stars": 2559,
+                "topics": [
+                  "cpp",
+                  "deep-learning",
+                  "deep-learning-gpu",
+                  "gpgpu",
+                  "gpu-computing",
+                  "machine-learning",
+                  "machine-learning-gpu",
+                  "python",
+                  "vulkan",
+                  "vulkan-compute",
+                  "vulkan-compute-example",
+                  "vulkan-compute-framework",
+                  "vulkan-compute-tutorial",
+                  "vulkan-demos",
+                  "vulkan-example",
+                  "vulkan-tutorial"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -859,12 +1331,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vulkan/CUDA/HIP/OpenCL/Level Zero/Metal Fast Fourier Transform library",
+                "homepage": null,
                 "id": 284421891,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-04-04T19:41:08Z",
+                "open_issues": 99,
                 "owner": "DTolm",
                 "repo": "VkFFT",
-                "stars": 1769
+                "stars": 1770,
+                "topics": [
+                  "c2r",
+                  "convolution",
+                  "cuda",
+                  "dct",
+                  "fft",
+                  "hip",
+                  "hpc",
+                  "levelzero",
+                  "metal",
+                  "opencl",
+                  "r2c",
+                  "r2r",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -875,12 +1366,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vulkan compute for people",
+                "homepage": "https://glavnokoman.github.io/vuh",
                 "id": 131146067,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-10-15T09:49:28Z",
+                "open_issues": 19,
                 "owner": "Glavnokoman",
                 "repo": "vuh",
-                "stars": 347
+                "stars": 347,
+                "topics": [
+                  "compute",
+                  "cpp-library",
+                  "framework",
+                  "glsl",
+                  "glsl-shaders",
+                  "gpgpu",
+                  "gpgpu-computing",
+                  "gpu",
+                  "gpu-acceleration",
+                  "gpu-computing",
+                  "gpu-programming",
+                  "high-performance-computing",
+                  "vulkan",
+                  "vulkan-compute",
+                  "vulkan-compute-shaders",
+                  "vulkan-library",
+                  "vulkan-utils"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -891,12 +1405,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vulkan Compute for C++ (experimentation project)",
+                "homepage": null,
                 "id": 52837570,
                 "language": "C++",
+                "license": "Zlib",
                 "last_commit": "2022-01-08T23:18:21Z",
+                "open_issues": 2,
                 "owner": "uNetworking",
                 "repo": "libvc",
-                "stars": 141
+                "stars": 141,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             }
@@ -919,24 +1438,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "C++ bindings for VulkanMemoryAllocator",
+                    "homepage": null,
                     "id": 211498608,
                     "language": "C",
+                    "license": "CC0-1.0",
                     "last_commit": "2022-04-15T13:25:30Z",
+                    "open_issues": 5,
                     "owner": "malte-v",
                     "repo": "VulkanMemoryAllocator-Hpp",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:34:54.165Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Easy to integrate Vulkan memory allocation library",
+                "homepage": null,
                 "id": 94551647,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-06-04T22:51:09Z",
+                "open_issues": 36,
                 "owner": "GPUOpen-LibrariesAndSDKs",
                 "repo": "VulkanMemoryAllocator",
-                "stars": 3481
+                "stars": 3481,
+                "topics": [
+                  "memory-management",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -947,12 +1479,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vulkan Bootstrapping Iibrary",
+                "homepage": null,
                 "id": 237139329,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-27T14:40:02Z",
+                "open_issues": 23,
                 "owner": "charles-lunarg",
                 "repo": "vk-bootstrap",
-                "stars": 1276
+                "stars": 1275,
+                "topics": [
+                  "bootstrap",
+                  "cpp",
+                  "headeronly",
+                  "setup",
+                  "utility",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -963,12 +1507,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 126342640,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2021-09-07T04:13:25Z",
+                "open_issues": 33,
                 "owner": "GPUOpen-LibrariesAndSDKs",
                 "repo": "V-EZ",
-                "stars": 890
+                "stars": 890,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -979,12 +1528,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A set of utilities for taking the pain out of Vulkan in header only modern C++",
+                "homepage": null,
                 "id": 52352579,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-06-04T00:45:00Z",
+                "open_issues": 13,
                 "owner": "andy-thomason",
                 "repo": "Vookoo",
-                "stars": 539
+                "stars": 539,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -995,12 +1549,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "vulkan abstraction layer that represent frame as a task graph",
+                "homepage": null,
                 "id": 148334704,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2021-03-24T20:05:42Z",
+                "open_issues": 2,
                 "owner": "azhirnov",
                 "repo": "FrameGraph",
-                "stars": 427
+                "stars": 427,
+                "topics": [
+                  "c-plus-plus-17",
+                  "cplusplus",
+                  "cpp17",
+                  "framegraph",
+                  "rendergraph",
+                  "rtx",
+                  "vr",
+                  "vulkan-api"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1011,12 +1579,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-performance Vulkan driver with automated resource management and execution",
+                "homepage": null,
                 "id": 272821902,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T14:31:43Z",
+                "open_issues": 7,
                 "owner": "attackgoat",
                 "repo": "vk-graph",
-                "stars": 341
+                "stars": 341,
+                "topics": [
+                  "3d",
+                  "3d-game-engine",
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "rust",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1027,12 +1608,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Modern C++ vulkan utility library.",
+                "homepage": null,
                 "id": 52182499,
                 "language": "C++",
+                "license": "BSL-1.0",
                 "last_commit": "2020-12-05T01:18:43Z",
+                "open_issues": 2,
                 "owner": "nyorain",
                 "repo": "vpp",
-                "stars": 261
+                "stars": 261,
+                "topics": [
+                  "abstraction",
+                  "lightweight",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1043,12 +1633,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 55440122,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2017-11-27T17:22:24Z",
+                "open_issues": 2,
                 "owner": "google",
                 "repo": "vulkan-cpp-library",
-                "stars": 251
+                "stars": 251,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1059,12 +1654,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A multi-platform library to create a Vulkan window, and handle input events.",
+                "homepage": null,
                 "id": 75575984,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-09T05:54:35Z",
+                "open_issues": 4,
                 "owner": "renelindsay",
                 "repo": "Vulkan-WSIWindow",
-                "stars": 111
+                "stars": 111,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1075,12 +1675,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository is discontinued, see https://github.com/ValveSoftware/Fossilize",
+                "homepage": null,
                 "id": 127623621,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2019-03-18T09:22:17Z",
+                "open_issues": 10,
                 "owner": "Themaister",
                 "repo": "Fossilize",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             }
@@ -1098,12 +1703,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library.",
+                "homepage": "https://bkaradzic.github.io/bgfx/overview.html",
                 "id": 3925242,
                 "language": "C++",
-                "last_commit": "2026-08-27T19:27:49Z",
+                "license": "BSD-2-Clause",
+                "last_commit": "2026-08-28T23:37:16Z",
+                "open_issues": 285,
                 "owner": "bkaradzic",
                 "repo": "bgfx",
-                "stars": 17438
+                "stars": 17440,
+                "topics": [
+                  "d3d11",
+                  "d3d12",
+                  "directx",
+                  "directx-11",
+                  "directx-12",
+                  "engine",
+                  "gamedev",
+                  "gles",
+                  "glfw",
+                  "graphics",
+                  "metal",
+                  "opengl",
+                  "rendering",
+                  "sdl",
+                  "vulkan",
+                  "vulkan-api",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1114,12 +1742,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+                "homepage": "https://www.glfw.org",
                 "id": 9524997,
                 "language": "C",
+                "license": "Zlib",
                 "last_commit": "2026-08-04T16:34:20Z",
+                "open_issues": 762,
                 "owner": "glfw",
                 "repo": "glfw",
-                "stars": 15291
+                "stars": 15291,
+                "topics": [
+                  "c",
+                  "linux",
+                  "macos",
+                  "opengl",
+                  "opengl-es",
+                  "unix",
+                  "vulkan",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1130,12 +1772,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Forge Cross-Platform Framework PC Windows, Steamdeck (native), Ray Tracing, macOS / iOS, Android, XBOX, PS4, PS5, Switch, Quest 2",
+                "homepage": null,
                 "id": 105600991,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T22:50:15Z",
+                "open_issues": 14,
                 "owner": "ConfettiFX",
                 "repo": "The-Forge",
-                "stars": 5642
+                "stars": 5642,
+                "topics": [
+                  "android",
+                  "directx",
+                  "directx12",
+                  "ios",
+                  "linux",
+                  "linux-ubuntu",
+                  "macos",
+                  "metal",
+                  "multi-gpu",
+                  "multi-threading",
+                  "ps4",
+                  "ps5",
+                  "ray-tracing",
+                  "shader-translator",
+                  "shaders",
+                  "visibility-buffer",
+                  "vulkan",
+                  "vulkan-api",
+                  "vulkan-sdk",
+                  "xbox"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1146,12 +1814,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.",
+                "homepage": "http://libcinder.org",
                 "id": 622127,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-20T22:35:41Z",
+                "open_issues": 360,
                 "owner": "cinder",
                 "repo": "Cinder",
-                "stars": 5536
+                "stars": 5536,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1162,12 +1835,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern cross-platform low-level graphics library and rendering framework",
+                "homepage": "http://diligentgraphics.com/diligent-engine/",
                 "id": 44292772,
                 "language": "Batchfile",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-16T20:18:01Z",
+                "open_issues": 24,
                 "owner": "DiligentGraphics",
                 "repo": "DiligentEngine",
-                "stars": 4417
+                "stars": 4417,
+                "topics": [
+                  "3d-engine",
+                  "d3d11",
+                  "d3d12",
+                  "directx",
+                  "directx11",
+                  "directx12",
+                  "gamedev",
+                  "graphics-engine",
+                  "graphics-library",
+                  "graphics-programming",
+                  "ibl",
+                  "opengl",
+                  "opengl-es",
+                  "pbr",
+                  "ray-tracing",
+                  "raytracing",
+                  "renderer",
+                  "rendering",
+                  "vulkan",
+                  "vulkan-game-engine"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1178,12 +1877,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-Time Rendering Framework",
+                "homepage": "https://developer.nvidia.com/falcor",
                 "id": 98350667,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-01-07T11:21:34Z",
+                "open_issues": 65,
                 "owner": "NVIDIAGameWorks",
                 "repo": "Falcor",
-                "stars": 3219
+                "stars": 3219,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1194,12 +1898,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A high speed C++17 Vulkan game engine",
+                "homepage": "https://equilibrium.games",
                 "id": 96174151,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-09-21T04:41:02Z",
+                "open_issues": 21,
                 "owner": "EQMG",
                 "repo": "Acid",
-                "stars": 2019
+                "stars": 2019,
+                "topics": [
+                  "3d-engine",
+                  "c-plus-plus",
+                  "cpp17",
+                  "cross-platform",
+                  "game-development",
+                  "game-engine",
+                  "gles",
+                  "gpu",
+                  "graphics-library",
+                  "open-source",
+                  "renderer",
+                  "vulkan",
+                  "vulkan-engine",
+                  "vulkan-game-engine"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1210,12 +1934,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern C++ library for the development of real-time graphical applications",
+                "homepage": null,
                 "id": 125349427,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-27T14:47:49Z",
+                "open_issues": 2,
                 "owner": "GameFoundry",
                 "repo": "B3DFramework",
-                "stars": 1922
+                "stars": 1922,
+                "topics": [
+                  "c-plus-plus",
+                  "ecs",
+                  "game-engine-framework",
+                  "gamedev",
+                  "graphics",
+                  "rendering-3d-graphics",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1226,12 +1963,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Intrinsic is a Vulkan based cross-platform game and rendering engine. The project is currently in an early stage of development.",
+                "homepage": null,
                 "id": 71087084,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-21T09:42:43Z",
+                "open_issues": 23,
                 "owner": "begla",
                 "repo": "Intrinsic",
-                "stars": 1044
+                "stars": 1044,
+                "topics": [
+                  "cross-platform",
+                  "cross-platform-game",
+                  "data-oriented",
+                  "data-oriented-design",
+                  "game",
+                  "game-engine",
+                  "rendering",
+                  "rendering-engine",
+                  "vulkan",
+                  "vulkan-sdk"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1242,12 +1995,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern and easy-to-use library for Vulkan",
+                "homepage": "https://liblava.dev",
                 "id": 154323581,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-02-01T17:50:29Z",
+                "open_issues": 7,
                 "owner": "liblava",
                 "repo": "liblava",
-                "stars": 885
+                "stars": 885,
+                "topics": [
+                  "3d-graphics",
+                  "cpp",
+                  "cpp23",
+                  "cross-platform",
+                  "framework",
+                  "graphics",
+                  "graphics-engine",
+                  "liblava",
+                  "modern-cpp",
+                  "modular",
+                  "renderer",
+                  "rendering",
+                  "vulkan",
+                  "vulkan-api",
+                  "vulkan-graphics",
+                  "vulkan-library"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1258,12 +2033,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ cross-platform 3D graphics SDK. Includes demos & helper code (resource loading etc.) to speed up development of Vulkan, OpenGL ES 2.0 & 3.x applications",
+                "homepage": "https://docs.imgtec.com/sdk-documentation/html/introduction.html",
                 "id": 25927337,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-05-28T11:50:38Z",
+                "open_issues": 26,
                 "owner": "powervr-graphics",
                 "repo": "Native_SDK",
-                "stars": 774
+                "stars": 774,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1274,12 +2054,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vulkan, OptiX and CUDA Interoperation Modular Rendering Library and Framework for PC/Linux/Android",
+                "homepage": "http://devsh.eu",
                 "id": 189206704,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T11:28:37Z",
+                "open_issues": 119,
                 "owner": "Devsh-Graphics-Programming",
                 "repo": "Nabla",
-                "stars": 712
+                "stars": 713,
+                "topics": [
+                  "computer-graphics",
+                  "cuda",
+                  "cuda-opengl",
+                  "gpgpu",
+                  "gpu",
+                  "graphics-engine",
+                  "graphics-library",
+                  "hlsl",
+                  "optix",
+                  "optix-denoiser",
+                  "path-tracing",
+                  "pathtracing",
+                  "pbr",
+                  "raytracing",
+                  "rendering",
+                  "shaders",
+                  "spir-v",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1290,12 +2094,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Anvil is a cross-platform framework for Vulkan",
+                "homepage": null,
                 "id": 59041293,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-06-17T14:54:34Z",
+                "open_issues": 16,
                 "owner": "GPUOpen-Archive",
                 "repo": "Anvil",
-                "stars": 610
+                "stars": 610,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1306,12 +2115,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Getting serious about Vulkan development with this modern C++ framework, battle-tested in rapid prototyping, research, and teaching. Includes support for real-time ray tracing (RTX), serialization, and meshlets.",
+                "homepage": null,
                 "id": 202982062,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-17T12:32:52Z",
+                "open_issues": 67,
                 "owner": "cg-tuwien",
                 "repo": "Auto-Vk-Toolkit",
-                "stars": 446
+                "stars": 446,
+                "topics": [
+                  "cereal",
+                  "cpp",
+                  "engine",
+                  "framework",
+                  "mesh-shader",
+                  "mesh-shaders",
+                  "meshlets",
+                  "real-time-ray-tracing",
+                  "rendering",
+                  "rtx",
+                  "serialization",
+                  "visual-studio",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1322,12 +2150,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 87456010,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-20T18:15:57Z",
+                "open_issues": 18,
                 "owner": "nxp-imx",
                 "repo": "gtec-demo-framework",
-                "stars": 338
+                "stars": 338,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1338,12 +2171,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Afterburner for Vulkan development; Auto-Vk is a modern C++ low-level convenience and productivity layer atop Vulkan-Hpp. ",
+                "homepage": null,
                 "id": 271208129,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-10-17T12:31:53Z",
+                "open_issues": 30,
                 "owner": "cg-tuwien",
                 "repo": "Auto-Vk",
-                "stars": 299
+                "stars": 299,
+                "topics": [
+                  "real-time-rendering",
+                  "vulkan",
+                  "vulkan-hpp"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1354,12 +2196,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vulkan library oriented on high speed rendering",
+                "homepage": null,
                 "id": 80436294,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2019-01-27T23:38:56Z",
+                "open_issues": 5,
                 "owner": "pumexx",
                 "repo": "pumex",
-                "stars": 296
+                "stars": 296,
+                "topics": [
+                  "vulkan",
+                  "vulkan-api",
+                  "vulkan-library"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1370,12 +2221,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[UNMAINTAINED] A modern cross-platform 3D engine built with Vulkan, glTF 2.0 and modern C++14.",
+                "homepage": null,
                 "id": 69289273,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2018-05-29T12:14:28Z",
+                "open_issues": 1,
                 "owner": "Lugdunum3D",
                 "repo": "Lugdunum",
-                "stars": 246
+                "stars": 246,
+                "topics": [
+                  "cpp14",
+                  "pbr",
+                  "rendering",
+                  "vulkan",
+                  "vulkan-api"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1386,12 +2248,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Introductory Vulkan sample",
+                "homepage": null,
                 "id": 58741799,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2021-02-08T04:06:22Z",
+                "open_issues": 2,
                 "owner": "GPUOpen-LibrariesAndSDKs",
                 "repo": "HelloVulkan",
-                "stars": 122
+                "stars": 122,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1407,24 +2274,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Starter template for a project based on Vulkan Launchpad",
+                    "homepage": null,
                     "id": 564215595,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-09-20T13:56:54Z",
+                    "open_issues": 1,
                     "owner": "cg-tuwien",
                     "repo": "VulkanLaunchpadStarter",
-                    "stars": 32
+                    "stars": 32,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T12:34:54.165Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Framework for Vulkan beginners, used in university education.",
+                "homepage": null,
                 "id": 537333956,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-04-24T12:56:38Z",
+                "open_issues": 3,
                 "owner": "cg-tuwien",
                 "repo": "VulkanLaunchpad",
-                "stars": 89
+                "stars": 89,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1435,12 +2312,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "openFrameworks is a community-developed cross platform toolkit for creative coding in C++.",
+                "homepage": "http://openframeworks.cc",
                 "id": 62127969,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2017-10-27T17:33:58Z",
+                "open_issues": 1,
                 "owner": "openframeworks-vk",
                 "repo": "openFrameworks",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "openframeworks",
+                  "vulkan",
+                  "wip"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1451,12 +2337,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern, high-performance C++17 graphics and compute library based on Vulkan",
+                "homepage": "https://dolkar.github.io/Tephra/",
                 "id": 626366088,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-07-22T15:24:05Z",
+                "open_issues": 0,
                 "owner": "Dolkar",
                 "repo": "Tephra",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "gpgpu",
+                  "gpu",
+                  "graphics",
+                  "graphics-library",
+                  "high-performance",
+                  "low-level",
+                  "performance",
+                  "rendering",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1467,12 +2368,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Logi is light-weight C++ Vulkan abstraction framework, which attempts to bridge the gap between previous graphics APIs and Vulkan by making API easier to use while still preserving Vulkan semantics and introducing as little overhead as possible.",
+                "homepage": null,
                 "id": 96617464,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2021-04-05T11:42:45Z",
+                "open_issues": 0,
                 "owner": "UL-FRI-LGM",
                 "repo": "Logi",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "vulkan",
+                  "vulkan-abstraction",
+                  "vulkan-abstraction-framework",
+                  "vulkan-cpp",
+                  "vulkan-demos",
+                  "vulkan-library",
+                  "vulkan-wrapper"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1483,12 +2397,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A wrapper around the Vulkan graphics API.",
+                "homepage": null,
                 "id": 76431389,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2018-02-23T03:06:32Z",
+                "open_issues": 1,
                 "owner": "mwalczyk",
                 "repo": "plume",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1499,12 +2418,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform C++ framework that allows you to quickly initialize Vulkan and provides easy-to-use abstraction above main objects",
+                "homepage": null,
                 "id": 644116049,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-05T15:28:09Z",
+                "open_issues": 1,
                 "owner": "MHDtA-dev",
                 "repo": "VKFS",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "cplusplus",
+                  "cplusplus-17",
+                  "cpp",
+                  "fast",
+                  "game-development",
+                  "game-engine",
+                  "gamedev",
+                  "graphics",
+                  "graphics-programming",
+                  "highlevel",
+                  "vulkan",
+                  "vulkan-abstraction",
+                  "vulkan-abstraction-framework",
+                  "vulkan-api",
+                  "vulkan-wrapper",
+                  "wrapper",
+                  "wrapper-library"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             }
@@ -1522,12 +2464,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MoltenVK is a Vulkan Portability implementation. It layers a subset of the high-performance, industry-standard Vulkan graphics and compute API over Apple's Metal graphics framework, enabling Vulkan applications to run on macOS, iOS and tvOS.",
+                "homepage": null,
                 "id": 109875967,
                 "language": "Objective-C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T23:02:32Z",
+                "open_issues": 333,
                 "owner": "KhronosGroup",
                 "repo": "MoltenVK",
-                "stars": 5806
+                "stars": 5806,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1538,12 +2485,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VUDA is a header-only library based on Vulkan that provides a CUDA Runtime API interface for writing GPU-accelerated applications.",
+                "homepage": null,
                 "id": 151876489,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-01-21T12:08:08Z",
+                "open_issues": 7,
                 "owner": "jgbit",
                 "repo": "vuda",
-                "stars": 916
+                "stars": 916,
+                "topics": [
+                  "cuda",
+                  "vuda",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1554,12 +2510,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clspv is a compiler for OpenCL C to Vulkan compute shaders",
+                "homepage": null,
                 "id": 97020137,
                 "language": "LLVM",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T22:31:54Z",
+                "open_issues": 63,
                 "owner": "google",
                 "repo": "clspv",
-                "stars": 726
+                "stars": 726,
+                "topics": [
+                  "opencl",
+                  "spir",
+                  "spirv",
+                  "vulkan",
+                  "vulkan-compute-shaders"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1570,12 +2537,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vulkan Portability Implementation",
+                "homepage": null,
                 "id": 102678270,
                 "language": "C",
+                "license": "MPL-2.0",
                 "last_commit": "2023-06-06T02:15:26Z",
+                "open_issues": 39,
                 "owner": "gfx-rs",
                 "repo": "portability",
-                "stars": 389
+                "stars": 389,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1586,12 +2558,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "OpenGL Overload: OpenGL implementation on top of Vulkan",
+                "homepage": null,
                 "id": 5695459,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2016-11-15T22:27:15Z",
+                "open_issues": 4,
                 "owner": "g-truc",
                 "repo": "glo",
-                "stars": 278
+                "stars": 278,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1602,12 +2579,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ implementation of Vulkan sitting on D3D12 :cat2:",
+                "homepage": null,
                 "id": 122472449,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2018-04-18T16:51:00Z",
+                "open_issues": 5,
                 "owner": "msiglreith",
                 "repo": "rostkatze",
-                "stars": 82
+                "stars": 82,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1618,12 +2600,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vulkan Ignoble Software Rasterizer: Software rasterizer implementing Vulkan. Just for fun.",
+                "homepage": null,
                 "id": 87584126,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2018-06-02T16:50:54Z",
+                "open_issues": 0,
                 "owner": "baldurk",
                 "repo": "visor",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "rasterizer",
+                  "vulkan",
+                  "vulkan-api"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             }
@@ -1641,12 +2632,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vulkan RTX path tracer with a declarative ES7-like scene description language.",
+                "homepage": null,
                 "id": 162186933,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2019-11-02T22:47:43Z",
+                "open_issues": 3,
                 "owner": "Nadrin",
                 "repo": "Quartz",
-                "stars": 447
+                "stars": 447,
+                "topics": [
+                  "graphics",
+                  "path-tracing",
+                  "pbr",
+                  "physically-based-rendering",
+                  "qml",
+                  "qt",
+                  "qt3d",
+                  "raytracing",
+                  "rtx",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             }
@@ -1664,12 +2671,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡ Datoviz: high-performance GPU rendering for scientific data visualization",
+                "homepage": "https://datoviz.org",
                 "id": 281501204,
                 "language": "C",
-                "last_commit": "2026-08-28T11:20:38Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:33:38Z",
+                "open_issues": 4,
                 "owner": "datoviz",
                 "repo": "datoviz",
-                "stars": 806
+                "stars": 807,
+                "topics": [
+                  "c",
+                  "cpp",
+                  "data-visualization",
+                  "data-viz",
+                  "gpu",
+                  "graphics",
+                  "python",
+                  "rendering",
+                  "scientific-computing",
+                  "scientific-visualization",
+                  "visualization",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             }
@@ -1687,12 +2712,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Khronos-reference front end for GLSL/ESSL, partial front end for HLSL, and a SPIR-V generator.",
+                "homepage": null,
                 "id": 38064932,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T23:20:47Z",
+                "open_issues": 403,
                 "owner": "KhronosGroup",
                 "repo": "glslang",
-                "stars": 3568
+                "stars": 3568,
+                "topics": [
+                  "compiler",
+                  "essl",
+                  "glsl",
+                  "glslang",
+                  "glslangvalidator",
+                  "hlsl",
+                  "shader",
+                  "spir-v",
+                  "validator"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             },
@@ -1703,12 +2743,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.",
+                "homepage": null,
                 "id": 55413903,
                 "language": "GLSL",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-31T13:06:58Z",
+                "open_issues": 155,
                 "owner": "KhronosGroup",
                 "repo": "SPIRV-Cross",
-                "stars": 2495
+                "stars": 2496,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             }
@@ -1726,12 +2771,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experimental High Level Framework for Vulkan",
+                "homepage": null,
                 "id": 78512347,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-01-21T09:04:49Z",
+                "open_issues": 3,
                 "owner": "nvpro-pipeline",
                 "repo": "VkHLF",
-                "stars": 329
+                "stars": 329,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             }
@@ -1750,12 +2800,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[maintenance mode] A low-overhead Vulkan-like GPU API for Rust.",
+            "homepage": "http://gfx-rs.github.io/",
             "id": 13847975,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-27T01:05:58Z",
+            "open_issues": 331,
             "owner": "gfx-rs",
             "repo": "gfx",
-            "stars": 5398
+            "stars": 5399,
+            "topics": [
+              "dx11",
+              "dx12",
+              "gfx",
+              "gpu",
+              "graphics",
+              "graphics-apis",
+              "metal",
+              "opengl",
+              "rust",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -1766,12 +2832,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about.",
+            "homepage": "https://dotnet.github.io/Silk.NET",
             "id": 191232240,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-25T15:15:37Z",
+            "open_issues": 103,
             "owner": "dotnet",
             "repo": "Silk.NET",
-            "stars": 5174
+            "stars": 5177,
+            "topics": [
+              "3d",
+              "audio",
+              "csharp",
+              "game-development",
+              "glfw",
+              "graphics",
+              "graphics-library",
+              "haptics",
+              "native",
+              "openal",
+              "opencl",
+              "opengl",
+              "scientific-visualization",
+              "silk",
+              "vulkan",
+              "webgpu",
+              "wgpu"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -1782,12 +2871,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Safe and rich Rust wrapper around the Vulkan API",
+            "homepage": null,
             "id": 38607895,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T12:50:26Z",
+            "open_issues": 89,
             "owner": "vulkano-rs",
             "repo": "vulkano",
-            "stars": 5144
+            "stars": 5145,
+            "topics": [
+              "graphics-programming",
+              "rust",
+              "spir-v",
+              "vulkan",
+              "vulkan-api"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -1798,12 +2898,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-Source Vulkan C++ API",
+            "homepage": null,
             "id": 61292682,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T02:50:52Z",
+            "open_issues": 28,
             "owner": "KhronosGroup",
             "repo": "Vulkan-Hpp",
-            "stars": 3783
+            "stars": 3783,
+            "topics": [
+              "cpp",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -1814,12 +2922,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vulkan bindings for Rust",
+            "homepage": null,
             "id": 65640886,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T09:39:28Z",
+            "open_issues": 78,
             "owner": "ash-rs",
             "repo": "ash",
-            "stars": 2332
+            "stars": 2333,
+            "topics": [
+              "gamedev",
+              "rust",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -1830,12 +2947,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vulkan API for JavaScript/TypeScript",
+            "homepage": "https://maierfelix.github.io/nvk/1.2.162/",
             "id": 146889623,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2021-01-03T02:41:19Z",
+            "open_issues": 6,
             "owner": "maierfelix",
             "repo": "nvk",
-            "stars": 947
+            "stars": 947,
+            "topics": [
+              "bindings",
+              "javascript",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -1846,12 +2972,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vulkan binding generator for Zig",
+            "homepage": null,
             "id": 215272170,
             "language": "Zig",
+            "license": "MIT",
             "last_commit": "2026-08-23T16:31:44Z",
+            "open_issues": 25,
             "owner": "Snektron",
             "repo": "vulkan-zig",
-            "stars": 903
+            "stars": 903,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -1862,12 +2993,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vulkan API bindings for Go programming language",
+            "homepage": null,
             "id": 52986448,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2023-08-05T21:12:55Z",
+            "open_issues": 27,
             "owner": "vulkan-go",
             "repo": "vulkan",
-            "stars": 805
+            "stars": 805,
+            "topics": [
+              "android-ndk",
+              "framework",
+              "golang",
+              "golang-bindings",
+              "graphics",
+              "vulkan",
+              "vulkan-api"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -1878,12 +3022,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The ultimate Python binding for Vulkan API",
+            "homepage": null,
             "id": 86040574,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-27T10:13:23Z",
+            "open_issues": 16,
             "owner": "realitix",
             "repo": "vulkan",
-            "stars": 564
+            "stars": 565,
+            "topics": [
+              "python",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -1894,12 +3046,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Open source .NET binding for the Vulkan API",
+            "homepage": null,
             "id": 51959580,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2021-06-12T12:30:36Z",
+            "open_issues": 25,
             "owner": "mono",
             "repo": "VulkanSharp",
-            "stars": 531
+            "stars": 531,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -1910,12 +3067,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross platform .NET bindings for Vulkan, VMA, SPIRV-Cross and shaderc",
+            "homepage": null,
             "id": 205874500,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-05-25T06:56:54Z",
+            "open_issues": 2,
             "owner": "amerkoleci",
             "repo": "Vortice.Vulkan",
-            "stars": 396
+            "stars": 396,
+            "topics": [
+              "csharp",
+              "dotnet",
+              "dotnet-core",
+              "dotnetcore",
+              "net8",
+              "net9",
+              "netstandard",
+              "vortice",
+              "vulkan",
+              "vulkan-api",
+              "vulkan-sdk"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -1926,12 +3100,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vulkan header generator, OOP-style API wrapper, framework and prospective Vulkan-based game engine for Object Pascal",
+            "homepage": null,
             "id": 52313841,
             "language": "Pascal",
-            "last_commit": "2026-08-28T09:24:49Z",
+            "license": "Zlib",
+            "last_commit": "2026-08-29T01:41:22Z",
+            "open_issues": 13,
             "owner": "BeRo1985",
             "repo": "pasvulkan",
-            "stars": 225
+            "stars": 225,
+            "topics": [
+              "delphi",
+              "fpc",
+              "freepascal",
+              "object-pascal",
+              "oriented-object",
+              "pascal",
+              "vulkan",
+              "vulkan-api",
+              "vulkan-library"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -1942,12 +3131,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenGL and Vulkan header and loader generator.",
+            "homepage": "https://blog.magnum.graphics/hacking/simple-efficient-vulkan-loading-with-flextgl/",
             "id": 1620626,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-19T02:19:46Z",
+            "open_issues": 1,
             "owner": "mosra",
             "repo": "flextgl",
-            "stars": 207
+            "stars": 207,
+            "topics": [
+              "game-engine",
+              "glfw",
+              "loader",
+              "magnum",
+              "opengl",
+              "opengl-es",
+              "python",
+              "sdl2",
+              "vulkan",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -1958,12 +3163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Haskell bindings for Vulkan",
+            "homepage": "https://hackage.haskell.org/package/vulkan",
             "id": 51958082,
             "language": "Haskell",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-22T23:24:30Z",
+            "open_issues": 30,
             "owner": "expipiplus1",
             "repo": "vulkan",
-            "stars": 169
+            "stars": 169,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -1974,12 +3184,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C# Bindings for the Vulkan API & SPIR-V",
+            "homepage": null,
             "id": 53777358,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2022-12-08T00:53:02Z",
+            "open_issues": 25,
             "owner": "FacticiusVir",
             "repo": "SharpVk",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "c-sharp",
+              "dotnet-standard",
+              "spir-v",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -1990,12 +3210,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VK², Kotlin Wrapper for Vulkan: code expressiveness and safety meet graphic power",
+            "homepage": null,
             "id": 132931904,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-02T10:08:57Z",
+            "open_issues": 2,
             "owner": "kotlin-graphics",
             "repo": "vkk",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "lwjgl",
+              "vulkan",
+              "vulkan-library",
+              "vulkan-sdk",
+              "vulkan-utils"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -2006,12 +3237,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "generates luajit ffi bindings from c headers",
+            "homepage": null,
             "id": 50772590,
             "language": "Lua",
+            "license": null,
             "last_commit": "2018-03-24T12:43:52Z",
+            "open_issues": 0,
             "owner": "CapsAdmin",
             "repo": "ffibuild",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "binding-generator",
+              "cparser",
+              "ffi",
+              "luajit"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -2022,12 +3263,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Auto-generated D bindings for Vulkan",
+            "homepage": null,
             "id": 58715369,
             "language": "D",
+            "license": null,
             "last_commit": "2026-08-25T15:44:20Z",
+            "open_issues": 1,
             "owner": "ParticlePeter",
             "repo": "ErupteD",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -2038,12 +3284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WIP Vulkan API bindings for Deno",
+            "homepage": null,
             "id": 569783169,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-20T03:53:12Z",
+            "open_issues": 2,
             "owner": "deno-windowing",
             "repo": "vulkan",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -2054,12 +3305,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Auto-generated D bindings for Vulkan",
+            "homepage": null,
             "id": 54075943,
             "language": "D",
+            "license": null,
             "last_commit": "2016-09-21T04:48:43Z",
+            "open_issues": 7,
             "owner": "ColonelThirtyTwo",
             "repo": "dvulkan",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         }
@@ -2081,24 +3337,50 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Converts RenderDoc Vulkan capture to compilable and executable C++ code.",
+                "homepage": null,
                 "id": 229320830,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2020-01-06T16:21:20Z",
+                "open_issues": 0,
                 "owner": "azhirnov",
                 "repo": "RDCtoVkCpp",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "cplusplus",
+                  "reverse-engineering",
+                  "vulkan"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "RenderDoc is a stand-alone graphics debugging tool.",
+            "homepage": "https://renderdoc.org",
             "id": 17253131,
             "language": "C++",
-            "last_commit": "2026-08-28T12:18:49Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T14:53:53Z",
+            "open_issues": 49,
             "owner": "baldurk",
             "repo": "renderdoc",
-            "stars": 11028
+            "stars": 11032,
+            "topics": [
+              "d3d11",
+              "d3d12",
+              "debugger",
+              "direct3d",
+              "directx",
+              "graphics",
+              "graphics-programming",
+              "opengl",
+              "renderdoc",
+              "vulkan",
+              "vulkan-api"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -2109,12 +3391,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.",
+            "homepage": "https://discordapp.com/invite/Gj5YmBb",
             "id": 236648333,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-25T11:38:28Z",
+            "open_issues": 327,
             "owner": "flightlessmango",
             "repo": "MangoHud",
-            "stars": 8980
+            "stars": 8984,
+            "topics": [
+              "benchmarking",
+              "hud",
+              "linux",
+              "monitoring",
+              "opengl",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -2125,12 +3419,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Graphics API Debugger",
+            "homepage": "https://gapid.dev",
             "id": 81937787,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-08T03:22:01Z",
+            "open_issues": 338,
             "owner": "google",
             "repo": "gapid",
-            "stars": 2240
+            "stars": 2240,
+            "topics": [
+              "android",
+              "debugger",
+              "gles",
+              "gles2",
+              "golang",
+              "gpu",
+              "graphics-api",
+              "linux",
+              "macos",
+              "opengl-es",
+              "opengles",
+              "replay",
+              "trace",
+              "vulkan",
+              "vulkan-api",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -2141,12 +3457,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CodeXL is a comprehensive tool suite that enables developers to harness the benefits of CPUs, GPUs and APUs.",
+            "homepage": "http://gpuopen.com/compute-product/codexl/",
             "id": 56045114,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2020-04-29T17:38:37Z",
+            "open_issues": 0,
             "owner": "GPUOpen-Archive",
             "repo": "CodeXL",
-            "stars": 1009
+            "stars": 1009,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -2157,12 +3478,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools to aid in Vulkan development",
+            "homepage": null,
             "id": 50691713,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T14:38:48Z",
+            "open_issues": 50,
             "owner": "LunarG",
             "repo": "VulkanTools",
-            "stars": 770
+            "stars": 771,
+            "topics": [
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -2173,12 +3501,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "**Deprecated repository** for Vulkan loader and validation layers",
+            "homepage": null,
             "id": 51507157,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2018-05-16T07:51:32Z",
+            "open_issues": 116,
             "owner": "KhronosGroup",
             "repo": "Vulkan-LoaderAndValidationLayers",
-            "stars": 412
+            "stars": 412,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -2189,12 +3522,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Open Capture and Analytics Tool (OCAT) provides an FPS overlay and performance measurement for D3D11, D3D12, and Vulkan",
+            "homepage": null,
             "id": 75729693,
             "language": "C++",
+            "license": null,
             "last_commit": "2023-09-27T15:12:16Z",
+            "open_issues": 26,
             "owner": "GPUOpen-Tools",
             "repo": "ocat",
-            "stars": 363
+            "stars": 363,
+            "topics": [
+              "d3d11",
+              "d3d12",
+              "fps-overlay",
+              "mit-license",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -2205,12 +3549,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform Vulkan layer which checks Vulkan applications for best practices on Arm Mali devices.",
+            "homepage": null,
             "id": 105034628,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2022-01-20T15:46:30Z",
+            "open_issues": 1,
             "owner": "ARM-software",
             "repo": "perfdoc",
-            "stars": 117
+            "stars": 117,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -2221,12 +3570,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library for shader debugging and profiling for Vulkan and OpenGL",
+            "homepage": null,
             "id": 252840675,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-07-14T16:58:18Z",
+            "open_issues": 0,
             "owner": "azhirnov",
             "repo": "glsl_trace",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "cplusplus",
+              "opengl",
+              "vulkan-api"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         }
@@ -2248,12 +3606,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code repository for Learning Vulkan, published by Packt",
+                "homepage": null,
                 "id": 74563033,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-07-17T13:39:47Z",
+                "open_issues": 0,
                 "owner": "PacktPublishing",
                 "repo": "Learning-Vulkan",
-                "stars": 247
+                "stars": 247,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             }
@@ -2271,12 +3634,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code repository for Vulkan Cookbook by Packt",
+                "homepage": null,
                 "id": 89470375,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-01-18T09:57:50Z",
+                "open_issues": 7,
                 "owner": "PacktPublishing",
                 "repo": "Vulkan-Cookbook",
-                "stars": 899
+                "stars": 899,
+                "topics": [
+                  "cpp",
+                  "vulkan",
+                  "vulkan-api",
+                  "vulkan-demos"
+                ]
               },
               "first_seen": "2026-08-28T12:34:54.165Z"
             }
@@ -2295,12 +3668,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+            "homepage": null,
             "id": 21737465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T12:39:13Z",
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500713
+            "stars": 500890,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "lists",
+              "resources",
+              "unicorns"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -2311,12 +3695,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":video_game: :pencil: A list of Game Development resources to make magic happen.",
+            "homepage": null,
             "id": 21958186,
             "language": "Markdown",
-            "last_commit": "2026-08-25T12:55:42Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:14:32Z",
+            "open_issues": 14,
             "owner": "ellisonleao",
             "repo": "magictools",
-            "stars": 17209
+            "stars": 17212,
+            "topics": [
+              "art",
+              "awesome",
+              "awesome-list",
+              "board-games",
+              "curated",
+              "design",
+              "frameworks",
+              "game-design",
+              "game-development",
+              "game-engine",
+              "game-jam",
+              "game-programming",
+              "gamedev",
+              "games",
+              "hacktoberfest",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -2327,12 +3733,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome OpenGL libraries, debuggers and resources.",
+            "homepage": null,
             "id": 37971591,
             "language": null,
+            "license": null,
             "last_commit": "2026-01-09T12:26:55Z",
+            "open_issues": 0,
             "owner": "eug",
             "repo": "awesome-opengl",
-            "stars": 2437
+            "stars": 2437,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "computer-graphics",
+              "game-development",
+              "glsl-editors",
+              "graphics-pipeline",
+              "lists",
+              "opengl",
+              "opengl-library",
+              "opengl-tutorial",
+              "video-tutorial"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -2343,12 +3766,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":memo: a list of graphic programming resources",
+            "homepage": null,
             "id": 38935281,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-12-30T21:02:56Z",
+            "open_issues": 5,
             "owner": "mattdesl",
             "repo": "graphics-resources",
-            "stars": 1853
+            "stars": 1854,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         },
@@ -2359,12 +3787,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome D3D12 ecosystem",
+            "homepage": "https://vinjn.github.io/awesome-d3d12/",
             "id": 73044032,
             "language": null,
+            "license": null,
             "last_commit": "2018-12-18T04:44:06Z",
+            "open_issues": 0,
             "owner": "vinjn",
             "repo": "awesome-d3d12",
-            "stars": 263
+            "stars": 263,
+            "topics": [
+              "amd",
+              "d3d12",
+              "direct3d",
+              "directx",
+              "microsoft",
+              "nvidia"
+            ]
           },
           "first_seen": "2026-08-28T12:34:54.165Z"
         }
@@ -2373,15 +3813,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:34:54.165Z",
+    "last_updated": "2026-08-29T04:20:07.126Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Vulkan ecosystem",
+      "homepage": "https://vinjn.github.io/awesome-vulkan/",
       "id": 51843752,
       "language": null,
+      "license": null,
       "last_commit": "2026-05-11T04:37:02Z",
+      "open_issues": 5,
       "owner": "vinjn",
       "repo": "awesome-vulkan",
-      "stars": 3714
+      "stars": 3714,
+      "topics": [
+        "amd",
+        "arm",
+        "khronos",
+        "nvidia",
+        "opengl",
+        "qualcomm",
+        "vulkan",
+        "vulkan-api",
+        "vulkan-libraries"
+      ]
     },
     "original_repository_sha": "6b4fb31552e35432eaf0a737badda5e0cee64c5b",
     "enhanced_repository": "enhansome/enhansome-vulkan",
