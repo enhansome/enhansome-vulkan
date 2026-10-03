@@ -181,7 +181,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 ## Libraries
 
 * 2D
-  * [imgui](https://github.com/ocornut/imgui) ⭐ 76,469 | 🐛 1,228 | 🌐 C++ | 📅 2026-10-02 - Immediate Mode Graphical User interface. \[MIT]
+  * [imgui](https://github.com/ocornut/imgui) ⭐ 76,470 | 🐛 1,228 | 🌐 C++ | 📅 2026-10-02 - Immediate Mode Graphical User interface. \[MIT]
   * [Skia](https://skia.googlesource.com/skia) - Google's 2D graphics library has a [Vulkan](https://skia.org/user/special/vulkan) [backend](https://github.com/google/skia/tree/master/src/gpu/vk) ⭐ 10,964 | 🐛 51 | 🌐 C++ | 📅 2026-10-02, demonstrated in a cross-platform [sample application](https://skia.org/user/sample/viewer) with its own [window library](https://github.com/google/skia/tree/master/tools/viewer) ⭐ 10,964 | 🐛 51 | 🌐 C++ | 📅 2026-10-02. \[BSD 3-clause] [website](https://skia.org)
   * [VKVG](https://github.com/jpbruyere/vkvg) ⭐ 819 | 🐛 37 | 🌐 C | 📅 2026-10-01 - Vulkan 2D graphics library, API follows the same pattern as Cairo graphics lib, but with new functions.
 
@@ -366,7 +366,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 
 ## Related lists
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,802 | 🐛 106 | 📅 2026-09-02 - Curated list of awesome lists.
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,814 | 🐛 106 | 📅 2026-09-02 - Curated list of awesome lists.
 * [gamedev](https://github.com/ellisonleao/magictools) ⭐ 17,407 | 🐛 27 | 🌐 Markdown | 📅 2026-09-26 - Awesome list about game development.
 * [awesome-opengl](https://github.com/eug/awesome-opengl) ⭐ 2,446 | 🐛 0 | 📅 2026-01-09 - Curated list of awesome OpenGL libraries, debuggers and resources.
 * [graphics-resources](https://github.com/mattdesl/graphics-resources) ⭐ 1,855 | 🐛 5 | 📅 2020-12-30 - List of graphic programming resources.

@@ -1164,7 +1164,7 @@
                 "open_issues": 1228,
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 76469,
+                "stars": 76470,
                 "topics": [
                   "api",
                   "cplusplus",
@@ -3656,7 +3656,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513802,
+            "stars": 513814,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3792,7 +3792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:15:34.208Z",
+    "last_updated": "2026-10-03T06:12:02.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Vulkan ecosystem",
